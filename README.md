@@ -1,2 +1,4 @@
-# dictionaries
-Misc dictionaries for directory/file enumeration, username enumeration, password dictionary/bruteforce attacks
+### Dictionaries
+
+This repository contains custom made dictionaries used to directories/files enumeration when attacking web applications.
+
