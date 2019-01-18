@@ -1,4 +1,4 @@
 ### Dictionaries
 
-This repository contains custom made dictionaries used to directories/files enumeration when attacking web applications.
+This repository contains custom made dictionariy used to directories/files enumeration when attacking web applications.
 
