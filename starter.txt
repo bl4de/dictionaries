@@ -79094,3 +79094,5 @@ config.gypi
 /graphql/console/
 graphql.php
 graphiql
+script
+scriptText
