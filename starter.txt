@@ -79096,3 +79096,4 @@ graphql.php
 graphiql
 script
 scriptText
+dashboard/phpinfo.php
