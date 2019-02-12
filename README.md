@@ -2,11 +2,9 @@
 
 This repository contains custom made dictionariy used to directories/files enumeration when attacking web applications.
 
-### Starter(s) dictionaries
+### Starter dictionary
 
-`starter_2.txt` contains entries with up to two `/` characters in path
+`starter.txt` contains ~79k most common entries one can found on any web server. Configuration files, IDE files, dot files, default CMS, CRM, eCommerce engines, backups, "hidden" panels, admin interfaces, SQLs - name it.
 
-`starter_3.txt` contains entries with up to three `/` characters in path (eg. `/path/to/something`), which means it's not that likely to find such path on the server.
-
-`starter_4.txt` contains paths with up to four `/` characters and `starter.txt` is the main one used to create all other, and contains all entries (~79k paths)
+I've named it `starter`, because I use this dictionary as very first when doing files/folders enumeration on the webserver.
 
