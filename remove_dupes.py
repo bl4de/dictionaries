@@ -1,8 +1,8 @@
 #!/usr/bin/python
 #
 # script for removing duplicates in dictionary
-
-dictionary = open("starter.txt", "r").readlines()
+import sys
+dictionary = open(sys.argv[1], "r").readlines()
 print len(dictionary)
 res = set()
 for p in dictionary:
@@ -10,7 +10,7 @@ for p in dictionary:
     
 new_dict = list(res)
 
-dictionary = open("starter_filtered.txt", "w+")
+dictionary = open("_filtered.txt", "w+")
 for p in new_dict:
     dictionary.write(p + "\n")
 
