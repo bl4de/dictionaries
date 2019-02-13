@@ -99,7 +99,7 @@ viewtype.aspx
 usenet
 errore
 videodrome
-admin/account.php
+admin/account.%ext%
 igrab/
 almost-spring
 databank
@@ -436,7 +436,7 @@ ministries
 vp/ns/myppp.aspx
 view.php
 feed/rss/
-admin_action.php
+admin_action.%ext%
 bugtracker
 boards/ajax.php
 toolsprivate
@@ -493,7 +493,7 @@ commoninc
 db-full.mysql
 xoops/
 purchasing/sma2.html
-adminlogin.php
+adminlogin.%ext%
 exit.php
 photoalbum
 unittests/
@@ -789,7 +789,7 @@ monsterbook
 frontend/leonoticias/fotos
 .bz2
 bearded-llama
-admin_logout.php
+admin_logout.%ext%
 musicsearch.
 blogold
 product/5024
@@ -1129,7 +1129,7 @@ proc/self/fd/1
 proc/self/fd/0
 proc/self/fd/3
 proc/self/fd/2
-default2.php
+default2.%ext%
 proc/self/fd/4
 proc/self/fd/7
 proc/self/fd/6
@@ -1323,7 +1323,7 @@ working
 showuserreviewsrestaurants
 adscar/index.jsp
 sommaire
-admin_area/login.php
+admin_area/login.%ext%
 vick30/
 pmyadmin/
 boards/postings.php
@@ -1528,7 +1528,7 @@ ezines
 usernews
 cikis.php
 .git/fetch_head
-thanks.php
+thanks.%ext%
 klantenservice/faqs/
 aerin
 sitebr/
@@ -1931,7 +1931,7 @@ cust124
 wp-super-cache
 hesabim/urunlerim
 xrefertrial/
-admin_policy.php
+admin_policy.%ext%
 provost
 keygen
 labels.rdf
@@ -1953,7 +1953,7 @@ pdfexport/
 __ma/
 admin-op
 cars/
-contactus.php
+contactus.%ext%
 edge1
 edge2
 regactivation
@@ -2098,7 +2098,7 @@ admin_reports
 webredesign/
 divine
 just-theme-framework-light
-controlpanel.php
+controlpanel.%ext%
 ads/advert.html
 hola/
 libs/javascript/
@@ -2238,7 +2238,7 @@ cerberusweb
 hilanderiasuniversal/
 default/posts/
 remindpass
-admin/login.php
+admin/login.%ext%
 ecards
 ghbbs/api/
 creat
@@ -2344,7 +2344,7 @@ partnerbereich
 page-1
 page-2
 def-zero
-adv.php
+adv.%ext%
 review.asp
 flu/espanol/
 nora
@@ -2359,7 +2359,7 @@ createdfiles/
 tv3admin/
 sc/
 cynthia
-admin_test.php
+admin_test.%ext%
 search/searchresult.aspx
 sobi2_downloads
 joblist/
@@ -2508,11 +2508,11 @@ enormous
 austlii/metstats/
 news.htm
 js/plupload/js/plupload.flash.swf
-adminmember.php
+adminmember.%ext%
 products/sunglasses/frameshape/square/price/
 doom
 admin_area.jsp
-admin_down.php
+admin_down.%ext%
 birdie
 dns-2
 beauty-is-beauty
@@ -2560,7 +2560,7 @@ en/c/
 pool-drinks
 general/rubit/templates/
 boards/moderator.php
-admin_sigimage.php
+admin_sigimage.%ext%
 simpo
 savesearch
 pensiones/pubespeciales2/
@@ -2575,8 +2575,8 @@ junglee/
 pressv2/
 rapporti/
 produkt/hersteller
-admin_bans.php
-password.php
+admin_bans.%ext%
+password.%ext%
 microsoft.sharepoint.dll
 addto
 searchft.php
@@ -2593,7 +2593,7 @@ psquare/*
 picjumbo.html
 media
 products/sunglasses/gender/male/frameshape/
-admin_area/admin.php
+admin_area/admin.%ext%
 bluemasters
 grey-market
 images/rss.png
@@ -2745,7 +2745,7 @@ maintenance/multilingual/
 s/address/
 mode/
 adview
-admin_story.php
+admin_story.%ext%
 nadmin
 olivier.falque/
 firstpitch/
@@ -3011,7 +3011,7 @@ hoteis/
 mbbrasil
 bcb/bcbadmstart.jsp
 sharedpages
-sitedown.php
+sitedown.%ext%
 _exec
 new/552/553/584/
 ftp_files
@@ -3064,7 +3064,7 @@ b02
 xena
 orderforms
 invitetobid.php
-admin_data.php
+admin_data.%ext%
 products/sunglasses/frametype/rimless/colour/
 pascalblouin/
 m3u
@@ -3163,7 +3163,7 @@ xapi
 andorra
 synchro
 iscrivinews.asp
-mail/smtp/admin/smadv.php
+mail/smtp/admin/smadv.%ext%
 florida/west
 include/functions.php
 xml/regionmapdataxml.ashx$
@@ -3393,7 +3393,7 @@ orderdesc
 friend.asp
 revision
 pemailfinal.php
-phpinfo.php
+phpinfo.%ext%
 arbeitgeber
 admin/spaw/dialogs/dialog.php?module=spawfm&dialog=spawfm&theme=spaw2lite&type=imagesundefined
 kontaktlinsen
@@ -3815,7 +3815,7 @@ patch
 lv/software/info/
 shannon
 relay/
-admin/controlpanel.php
+admin/controlpanel.%ext%
 wp.zip/nwp-content/plugins/disqus-comment-system/disqus.php
 matrix
 go.asp
@@ -3868,7 +3868,7 @@ rasstoyaniya/
 classes/meta-inf/manifest.mf
 milan20111115/
 invoice/
-admin_members.php
+admin_members.%ext%
 country/getstatesbycountryid
 scripts/napoveda.php
 layouthost.aspx
@@ -4037,7 +4037,7 @@ recipes/searchresults.aspx
 __pma___/
 lindatest/index.html
 s.jsp
-admin/index.php
+admin/index.%ext%
 resultat5.php
 sfcunm$
 phpids
@@ -4286,7 +4286,7 @@ shotgun
 indonesia
 reg$
 clienttools
-admin-logout.php
+admin-logout.%ext%
 rosters/
 maps/reserve/m/
 audio
@@ -4479,7 +4479,7 @@ web-links
 grainyflex
 flickrse/
 rotton/
-admin_search.php
+admin_search.%ext%
 topicadmin
 private2
 places
@@ -4488,10 +4488,10 @@ dark-marble
 genre.php
 pink-fun
 roam
-bb-admin/login.php
+bb-admin/login.%ext%
 veranstaltungssuche/
 light-linen
-adminfeedback.php
+adminfeedback.%ext%
 lib/tinymce/
 movil/wap
 problem
@@ -4516,7 +4516,7 @@ pws/secure/
 naturaitaliana/
 ir/
 metamorph_helloween
-account.php
+account.%ext%
 classic-glassy
 stickymail
 airwatchajaxhandler
@@ -4764,7 +4764,7 @@ pro11/en/enterprise
 search_result
 ir/disclosure/fact/
 addtocart_
-news_admin.php
+news_admin.%ext%
 es/informacion/
 jpcache
 br/
@@ -4926,7 +4926,7 @@ russian/blog/
 l
 br/br/ajaxservice/
 blogwave
-admin_poll.php
+admin_poll.%ext%
 randomage
 phpmyadmin-4.5.0-rc1-all-languages/
 .vagrant
@@ -5342,7 +5342,7 @@ info/comments/
 gynecologie.dserin$
 niners
 gn/
-admin_home.php
+admin_home.%ext%
 luna/servlet/widget
 gutschein
 elegant-resume
@@ -5824,7 +5824,7 @@ thumper
 infoagbprivat.jsp
 console-help/help/*
 archive/a_domlog.nsf
-admin_rotator.php
+admin_rotator.%ext%
 ppwb
 cost
 done.html
@@ -5909,7 +5909,7 @@ editalert.aspx
 teachers/themes/display.pperl
 softs
 skype/
-admin2.php
+admin2.%ext%
 manager/login
 sga/lipsync.html
 c4p
@@ -5989,7 +5989,7 @@ tsscript
 _dsn
 development-parts/
 cennik
-admintable.php
+admintable.%ext%
 aspdnsfencrypt
 discussion
 user/forgetpassword
@@ -6031,7 +6031,7 @@ southidceditor/
 markasread
 gray-pearl
 corona
-admin_forums.php
+admin_forums.%ext%
 ksprice/android/web
 re/edit.php
 review.cfm
@@ -6210,7 +6210,7 @@ userposts
 rdiff
 marknad2/
 gast
-php
+%ext%
 kandidat/entdecken
 fn
 teamspirit
@@ -7204,7 +7204,7 @@ database_administration
 market/edit
 photoshop
 psg
-admin_badword.php
+admin_badword.%ext%
 kids/disney.old/catalog/results.pperl
 assetmanager
 _notes/dwsync.xml
@@ -7361,7 +7361,7 @@ schedulejob
 file_download
 sv/customer/track
 index.cfm/fuseaction/account.start/
-modelsearch/admin.php
+modelsearch/admin.%ext%
 asc/
 crapp
 guest.html
@@ -7545,7 +7545,7 @@ preferencias
 xfer
 cadastro/
 ffmpeg
-modelsearch/index.php
+modelsearch/index.%ext%
 audio_swap
 accounts/pdf/rolliraapp.pdf
 eventi
@@ -7717,7 +7717,7 @@ servletgestionalertas
 new/comments/feed/
 express/sq.jsp
 its/
-admin_album.php
+admin_album.%ext%
 mainconsultant/
 searchnx.aspx
 focsani/
@@ -8509,7 +8509,7 @@ usersservices/signupuser.aspx
 randomizer
 skysnow
 skin_backup
-iissamples/sdk/asp/docs/codebrw2.php
+iissamples/sdk/asp/docs/codebrw2.%ext%
 sruli/
 user/signup/back
 referafriend.php
@@ -8597,7 +8597,7 @@ simplixity
 interntv.ru/
 qb/26557.html/
 duel/
-adminphp
+admin%ext%
 isabelle.amey$
 ebs
 bib
@@ -8902,7 +8902,7 @@ northland
 getreleases/
 mz/
 minisitios/
-adminer-3.4.0-en.php
+adminer-3.4.0-en.%ext%
 docs/core/index.html
 podcasting
 webpartpagesdisco.aspx
@@ -8990,7 +8990,7 @@ blueband
 security/ajax
 bigdump
 sections/us/elections98/
-addadmin.php
+addadmin.%ext%
 pt/en/poll/
 steele
 oap
@@ -9079,7 +9079,7 @@ wp-login/
 musings
 language.aspx
 dream-sky
-account/login.php
+account/login.%ext%
 user/commentlist2.do
 dragonium
 gshf/26533.html/
@@ -9121,7 +9121,7 @@ extjs
 katalog.php
 binsrc
 marc.dupond/
-admin_login.php
+admin_login.%ext%
 slow-motion
 latest-updates
 programacion/
@@ -9227,7 +9227,7 @@ adx/
 fx/phpdig/
 .server-info/
 kenjin
-admincalendar.php
+admincalendar.%ext%
 magazines/page/
 vertrag/
 qa/question
@@ -9479,7 +9479,7 @@ blank/
 imprint.html
 pressreleases
 treetail.htm.en
-admin_reset.php
+admin_reset.%ext%
 titular
 mvpm.galeon.com/
 grmgheartbeat
@@ -9717,7 +9717,7 @@ compaq.hmmo.cica
 admin-login.html
 instantestimator/
 digu
-admin_searchlog.php
+admin_searchlog.%ext%
 autologin
 imusic/
 phpmyadmin-old
@@ -9943,7 +9943,7 @@ mlayout
 fun/like/
 smash-my-typo
 portalheader.aspx
-admin/cp.php
+admin/cp.%ext%
 aamb9
 admincp/index.html
 psaxtiriaold/
@@ -10029,7 +10029,7 @@ alitalk/
 id/secure/
 search/get/
 marco
-filehandler.php
+filehandler.%ext%
 2009/
 sendthread.php
 lifeblog
@@ -10514,7 +10514,7 @@ target/
 univparis8.old/
 starttalkmars
 metaadmin
-admin_paylog.php
+admin_paylog.%ext%
 sp/user/
 includes/install.core.inc
 phpmailer/
@@ -10897,7 +10897,7 @@ frederic.olivo$
 doubleseventh/
 ee-gb
 products/case/liberta.html
-admin.php
+admin.%ext%
 guestbook/
 ifjune12/
 _index
@@ -10993,7 +10993,7 @@ standings/conference185
 sigma
 lk/transactions
 investwidget/
-admin_pop_mail.php
+admin_pop_mail.%ext%
 kultura/archive/print.php
 com_content
 hobby1h.rdf
@@ -11007,9 +11007,9 @@ followtv
 plantilla
 ebaypics
 vb3/faq.php
-admin_assist3.php
+admin_assist3.%ext%
 js/tiny_mce/
-login_admin.php
+login_admin.%ext%
 health/employment/
 stormy
 lyrics/
@@ -12203,7 +12203,7 @@ displayartwork.html
 price/0/compatible/
 sales_force
 suzie
-classadmin.php
+classadmin.%ext%
 pt/profile/
 crm/
 przejdz
@@ -12318,7 +12318,7 @@ election/
 arbeit
 quark/myroom/
 coverflow
-myadminphp
+myadmin%ext%
 kioskset.do
 redirector.asp
 stadt
@@ -12385,7 +12385,7 @@ account/forumratedisp/
 products/lp05/
 appserver
 commlct
-topicadmin.php
+topicadmin.%ext%
 startouch.jsont.html
 htpasswds
 fwd/guarantee.jsp
@@ -12518,7 +12518,7 @@ backtocs/
 plainscape-dark-mod
 encyclopedie/recherche/
 site/getpresent
-bestellvorgang.php
+bestellvorgang.%ext%
 videogallery
 seniorlife/
 en/app/
@@ -13008,7 +13008,7 @@ logoff.html
 marvelshop/iframe/
 general/misc/
 kr/media/
-members/login.php
+members/login.%ext%
 hot-jobs
 filemanager
 wedding
@@ -13326,7 +13326,7 @@ sparky
 recruit/lp/
 knowledge
 openxml
-user.php
+user.%ext%
 webo-pro
 de/home/onlinebanking/
 timeshift
@@ -13389,7 +13389,7 @@ serverfile/
 gb/cart
 return/returns
 drukuj/
-login/cpanel.php
+login/cpanel.%ext%
 ga.gif
 en/legal.html
 cgi-bin/a1stats/a1disp.cgi
@@ -13481,7 +13481,7 @@ publicdata/
 privatkunden/video/youtube
 intranetold/
 project/karyabi/7/scripts/expressinstall.swf
-forgot_pass.php
+forgot_pass.%ext%
 fre/resources/result/
 exampleswebapp/interactivequery.jsp
 slashdot
@@ -13759,7 +13759,7 @@ pdns
 gerenfabu/
 fantastic-blue
 nt/nc/institutionnel/groupachat/
-accounts/login.php
+accounts/login.%ext%
 de-de
 resell
 *do=lastcomments
@@ -13834,7 +13834,7 @@ flashtxt/
 ciudad
 facharzt/m/
 .jpg$
-admin/admin-login.php
+admin/admin-login.%ext%
 fanclub
 corporation
 detail
@@ -14078,7 +14078,7 @@ spike
 full_dns.php
 nba/
 articleasp
-admin_info.php
+admin_info.%ext%
 twenty-ten-accordion
 vpv
 interviews/
@@ -14369,7 +14369,7 @@ primary
 workarea/docs/*
 mc/blog/presse/
 fantasy
-admin_sitestat.php
+admin_sitestat.%ext%
 nightskyline
 lib/mac/
 relations
@@ -14532,7 +14532,7 @@ vkontakte/
 ips.php
 lpfrontend/
 related.aspx
-admin_assist.php
+admin_assist.%ext%
 fotohaber/sayfalama/
 locations/baltimore.jsp
 third-son
@@ -14729,7 +14729,7 @@ webdisk
 pervouralsk/
 pathology
 new_forms
-admin_comp.php
+admin_comp.%ext%
 hk/findacard
 _themes
 httprequest
@@ -15157,7 +15157,7 @@ posta
 nz/product/comparison
 funzioni
 guest-tracking
-admin_address.php
+admin_address.%ext%
 porn
 trend
 epay
@@ -15588,7 +15588,7 @@ section-detail
 usergallery/
 suspenso
 superman
-affiliate_terms.php
+affiliate_terms.%ext%
 motoceny/admin/
 super.cfm
 lt/xmlrpc.php
@@ -15619,7 +15619,7 @@ printable
 500.html
 sitemanager.aspx
 unwakeable
-admincp.php
+admincp.%ext%
 pab/
 donation
 showstream.php
@@ -16039,7 +16039,7 @@ faber
 helperfiles
 miscellaneous
 games/b
-back.php
+back.%ext%
 requestparamexample
 z-omniupdate
 autocomplete.php
@@ -16113,7 +16113,7 @@ newdisplaymapping.aspx
 trib/
 relik
 site_backup
-directory.php
+directory.%ext%
 users/friends
 southeastatlantic/
 whodoimention
@@ -16268,7 +16268,7 @@ cbcontent
 goocine
 vocabulary/search
 error.aspx.cs
-forum_professionnel.php
+forum_professionnel.%ext%
 luna/servlet/as/
 imr/
 murof/
@@ -17410,7 +17410,7 @@ acthall/114/
 rodape.jspf
 ejemplos
 ~funny/
-admin_assist2.php
+admin_assist2.%ext%
 ncpa/
 ladnscape-gallery
 language/
@@ -17547,7 +17547,7 @@ timetable
 eagles
 jsp/editor/
 microsite.asp
-admin_tdet.php
+admin_tdet.%ext%
 lambethwalkgp/
 tamluck/
 signup/fast/
@@ -17647,7 +17647,7 @@ bb-admin/admin.asp
 products/sunglasses/brand/penguin/frametype/
 lan12_3
 hum
-main.php
+main.%ext%
 hotels/share
 process.php
 hiawatha
@@ -17684,7 +17684,7 @@ repetitors/
 dear-diary
 redirect.asp
 photo_archive
-login.php
+login.%ext%
 edi/
 wbur/connection/
 tar.bz2
@@ -17782,7 +17782,7 @@ vfb/landingpage/
 a.ns
 smoothgray
 cro
-admin_pending.php
+admin_pending.%ext%
 adminforms
 rfm
 no-index
@@ -17820,7 +17820,7 @@ unknown
 ts/stats/
 scope.aspx
 v.aspx
-sql.php
+sql.%ext%
 priority
 bozo
 im/ab/b4/10/z17515435q.jpg
@@ -17985,7 +17985,7 @@ mediaforum
 cubi
 globalnav
 c:/boot.ini
-header_admin.php
+header_admin.%ext%
 codes/
 ciencia/naturaleza
 chunchun_manage
@@ -18134,12 +18134,12 @@ ib/materials/corpstyle/
 rn/arkiv/
 cx/
 mems/liked/
-admin_pmmaint.php
+admin_pmmaint.%ext%
 md5.js
 marcilla$
 kasa/podsumowanie/telefon.html
 bandtheme
-admin_newspost.php
+admin_newspost.%ext%
 genius/about/uwa.html
 homezone
 soye/
@@ -18292,7 +18292,7 @@ d:\system32\inetsrv\metabase.xml
 reviews-2010
 printreceipt.aspx
 newlinks
-submit_article.php
+submit_article.%ext%
 hosts
 classifieds/savead/
 bccustomer/
@@ -18487,7 +18487,7 @@ magicblue
 phpmyadmin/
 users/ajaxlogin.aspx
 prismaajaxrating/
-sloth_admin.php
+sloth_admin.%ext%
 super1
 ip/camera
 .appledesktop
@@ -18503,7 +18503,7 @@ rhapsody
 ticats/
 vocabolario/tag/
 mailgw2
-attachmentedit.php
+attachmentedit.%ext%
 acquisitioncontent/
 project/hefazat/4/right.swf
 incl2/
@@ -18589,7 +18589,7 @@ dump.rar
 preview/home/
 projekt
 paf/
-admin_picks.php
+admin_picks.%ext%
 learn/temp
 colorsnap
 otr2
@@ -18870,7 +18870,7 @@ adminversion
 android/
 managers/proxy.pac
 fileadmin/extranet/
-map.php
+map.%ext%
 dz0.php
 var/
 root.aspx
@@ -19013,7 +19013,7 @@ hewitt
 sepet/
 collapse
 visiteurs
-adminsettings.php
+adminsettings.%ext%
 leo-horoscope
 fitness-blogger
 women/
@@ -19105,7 +19105,7 @@ professor
 juicebox/xml/
 lps
 kazan/goods/beauty/
-admin_userdet.php
+admin_userdet.%ext%
 admindemo
 forestry/7864/
 fitnessfirst/secure/
@@ -19325,7 +19325,7 @@ agreements/
 awss
 project/marham/3/header.swf
 plain-wp
-admin_rules.php
+admin_rules.%ext%
 jannisvann/
 alterwind
 timer.php
@@ -19386,7 +19386,7 @@ wp-login.jsp
 scottwilliamsmd2/
 jqueryslideshow/
 closedialog/
-images_upload.php
+images_upload.%ext%
 updown
 tops
 topr
@@ -19448,7 +19448,7 @@ webstats
 ground-floor
 motodicas/
 grafix
-rubrique.php
+rubrique.%ext%
 disconnect/
 marketing/js/
 mindex.php
@@ -19714,7 +19714,7 @@ sayfayok.aspx
 freestreams
 developer/
 documents/forms/
-userinfo.php
+userinfo.%ext%
 factfinder
 compare/*_vs$
 ottawa
@@ -20136,7 +20136,7 @@ gold.php
 n/search/
 ftas
 omer/
-admin_postings.php
+admin_postings.%ext%
 hca
 hcg
 hcd
@@ -20280,7 +20280,7 @@ hps.php
 consultas$
 customers.csv
 idx/tpv/
-_myadmin.php
+_myadmin.%ext%
 hydrobar
 responsive-canonical
 cyrano
@@ -20396,7 +20396,7 @@ xmas
 info/law
 fuscot$
 lang/web.config
-_mem_bin/formslogin.php
+_mem_bin/formslogin.%ext%
 fuscot/
 etc/system
 cal_images
@@ -20459,7 +20459,7 @@ valerie.vedere$
 cz/landingpage/
 give/facebook
 webreport
-user/login.php
+user/login.%ext%
 non-realurl
 twit
 server-images
@@ -20813,7 +20813,7 @@ kts.php
 qicklink/
 cs/item/
 site-search
-adm/index.php
+adm/index.%ext%
 realestate/
 aa
 gone
@@ -21205,7 +21205,7 @@ codigo
 granted
 comps/
 iphone/business.htm
-adminusers.php
+adminusers.%ext%
 luminous-stone
 radios
 user/validation/
@@ -21630,7 +21630,7 @@ reembed/
 kioskbegin.do
 server-inf
 recherche
-admin_count.php
+admin_count.%ext%
 &parte=
 product/home!addtoshelf.action
 email.php/
@@ -22006,7 +22006,7 @@ lib/fckeditor/
 fa/save
 trajnoj/
 search/morelikethis/
-admin_edit.php
+admin_edit.%ext%
 linx
 db/autos/*?p
 retina
@@ -22390,7 +22390,7 @@ phpmychat
 authentication.cfm
 resume/view/
 en/scripts/
-head.php
+head.%ext%
 users/login/global/request/
 medicarecrossover/
 errordocs/
@@ -22763,7 +22763,7 @@ zeeb
 pdl.php
 koszyk.html
 jbossws/services
-logon.php
+logon.%ext%
 cds/media
 gym_sitemaps
 wordpress-indoyellow
@@ -22870,7 +22870,7 @@ loginok/
 .idea/tasks.xml
 houseinholland/indexnew.php
 cpanel_file/
-receiver.php
+receiver.%ext%
 kr/findacard
 jsp/share.jsp
 pink/search
@@ -23012,7 +23012,7 @@ suffusion
 begin
 mh/
 przejdz/
-admin_actions.php
+admin_actions.%ext%
 linktofriend
 indexjaend.html
 residential
@@ -23488,7 +23488,7 @@ webspherebank
 recommend2friend.aspx
 user/sergey
 computercitydk
-dpadmin.php
+dpadmin.%ext%
 apiproxy/
 ih
 linkedin10dc/
@@ -23723,7 +23723,7 @@ nuffic/
 funpic/
 internet-center-3-columns
 jquerychecker.htm
-siteserver/publishing/viewcode.php
+siteserver/publishing/viewcode.%ext%
 lightspeed.php/
 coogee
 inceli
@@ -23801,7 +23801,7 @@ weinversand/pub/
 coralinetest
 apps/frontend/config/app.yml
 ps1109led2/
-editsiteadmin.php
+editsiteadmin.%ext%
 latestnews/
 logout.jsp
 admin2.old/
@@ -24304,7 +24304,7 @@ apache/logs/error_log
 showcaptcha/
 license.php
 getitem.php
-admincontrol/login.php
+admincontrol/login.%ext%
 glendamay/
 fullarchive/
 st/data/
@@ -24998,7 +24998,7 @@ foro
 pr.aspx
 blue-elegant-travel-theme
 depositresolution
-start.php
+start.%ext%
 nauticaplentzia/
 crontabs
 magalog/page
@@ -25244,7 +25244,7 @@ showad/click
 ads.php
 about/recording/2015/
 site/help
-admin_default.php
+admin_default.%ext%
 js/error_table.js
 boletim
 boletin
@@ -25471,7 +25471,7 @@ yes-co-ores-theme
 regalia-blue
 mycenter/
 linkcolumn/
-admin_guestbook.php
+admin_guestbook.%ext%
 count.js
 survey/pc/
 grouplogon.aspx
@@ -25506,7 +25506,7 @@ web.tar.gz/
 w004
 login/administrator/
 contentrotator
-contact_admin.php
+contact_admin.%ext%
 phpinfo.php3
 idb
 storepickupcmd
@@ -25722,7 +25722,7 @@ trauma/
 zhidao
 auctions
 lists/edit/
-admin_customers.php
+admin_customers.%ext%
 strony
 whiteplus
 estatico/
@@ -25758,7 +25758,7 @@ en/install.sqlite.txt
 csc
 physics/documents/pteoo140.pdf
 _disc
-comment-admin.php
+comment-admin.%ext%
 helps
 gestione
 logs_console/
@@ -25856,7 +25856,7 @@ jiron
 aprovacao
 hhk
 exclude
-result.php
+result.%ext%
 hhh
 publicapi/
 f/
@@ -25920,7 +25920,7 @@ insurance/searches
 vestibular2
 mktg
 niederlassungen/suchergebnis/
-emailtofriend.php
+emailtofriend.%ext%
 kr/wce
 inline
 data/adflash.txt
@@ -25996,7 +25996,7 @@ moves/
 moulin-whoosh
 paula
 sacscoc2015
-admloginuser.php
+admloginuser.%ext%
 investis/
 wpesp-portfolio-theme-coda
 csv
@@ -26037,7 +26037,7 @@ liveperson
 se/merchant
 order-track
 megafon/demo.action
-masteradmin.php
+masteradmin.%ext%
 inc_
 magnus
 tenet/
@@ -26395,7 +26395,7 @@ tkuserdata
 config.inc.php.txt
 stefantheme
 products/sunglasses/frametype/rimless/popular/
-msadc/samples/selector/showcode.php
+msadc/samples/selector/showcode.%ext%
 blue-taste
 maintenance
 belepes
@@ -27006,7 +27006,7 @@ market.html
 venues/
 generos
 joshua/mobile/social/
-admin_expired.php
+admin_expired.%ext%
 kunde
 xmas25
 sqldump
@@ -27158,7 +27158,7 @@ infpgs/
 pixel
 quote/
 mod/
-admin_sync.php
+admin_sync.%ext%
 ekomi
 janikds/
 mvc/weekend/calendar.jsp
@@ -27411,7 +27411,7 @@ fruit-shake
 russia/search
 hk/training/registration/
 promoadmin/lib/
-admin_boardset.php
+admin_boardset.%ext%
 moban
 _shop
 medlounge/stroke
@@ -27603,7 +27603,7 @@ tweety
 int
 rateit
 context/
-adminexec.php
+adminexec.%ext%
 muj-ucet
 xpage/
 public/site/be/recommend/
@@ -27640,7 +27640,7 @@ kmartnz
 moyu
 mundogalaxy
 sv/cart/remove
-aboutus.php
+aboutus.%ext%
 ipb/eval/
 group.php
 publications/books/documents/
@@ -27799,7 +27799,7 @@ bibliotecas
 military_boots
 scadmin/
 localsettings.php.txt
-vadmin.php
+vadmin.%ext%
 uploaded_files
 mgredir
 a-z
@@ -28008,7 +28008,7 @@ pathways
 mailruu.php
 nintendo
 include/contact.php
-myaccount.php
+myaccount.%ext%
 win7blog
 message_strings.php
 fotoskaufen.html
@@ -28507,7 +28507,7 @@ en/member
 girls
 users/recipes/
 megastar/
-tiki-admin.php
+tiki-admin.%ext%
 print.htm
 netorder.html
 mp/announcements/
@@ -28646,7 +28646,7 @@ integrate
 dlgadmin
 folder
 ranowlan/
-searchadminbox.php
+searchadminbox.%ext%
 heathrowrewards1/
 diskuse/fotky/
 etc/vsftpd/vsftpd.conf
@@ -28756,7 +28756,7 @@ rtve/components/parrilla/popup/
 cobranded/
 isdevonline-boilerplate-parent-theme
 widget-logic
-admin_my_avatar.php
+admin_my_avatar.%ext%
 ielts
 sinscrire/
 reupload/
@@ -28961,7 +28961,7 @@ en-ie
 info/xmlrpc
 mzsm.html
 opx
-admin_panel.php
+admin_panel.%ext%
 content.aspx
 coleman/
 schnellsuche/
@@ -29053,7 +29053,7 @@ doctrine/schema/eirec.yml
 usa-management
 konference/
 musiquesdiverses/
-phpmyadmin.php
+phpmyadmin.%ext%
 accountoverview
 azure
 pt/register.php
@@ -29104,7 +29104,7 @@ phpshield
 traceroute
 serverindex.xml
 form
-ids_log.php
+ids_log.%ext%
 resultado.aspx
 super1.cfm
 fireworks
@@ -29230,7 +29230,7 @@ shared/healthcheck/
 anons
 fourteen/
 agregadoraereo/
-admins.php
+admins.%ext%
 staycool
 phpmyadmin-2.8.0-beta1/
 games2/start.php
@@ -29646,7 +29646,7 @@ loisirs/
 wiki
 sent/
 general/error.aspx
-admin_edit_page.php
+admin_edit_page.%ext%
 martine.barrotlambert$
 hotelredirect.aspx
 konyvkiemelesek
@@ -29826,7 +29826,7 @@ httgs.mdb
 yvonne
 xp/
 jasv/
-adminwfvkw.php
+adminwfvkw.%ext%
 nouveau
 awmdata-menu
 admin-login.cfm
@@ -29860,7 +29860,7 @@ j/
 ptf
 golffuehrer/temp/
 resadmin
-confirmation.php
+confirmation.%ext%
 entityhelper
 calendar
 includes/setview.php
@@ -30070,7 +30070,7 @@ mod/adman/adclk.php
 project/sabzivar/11/flashgallery.swf
 knuddels.com/css/
 userphotos
-admin2/index.php
+admin2/index.%ext%
 managedcare/usmedicines/
 instruments/support/download/downloadfiles/
 sk/register/
@@ -30400,7 +30400,7 @@ builder.controlpanel
 passwd.adjunct
 ger/tr/
 backup.tgz
-include/config.inc.php
+include/config.inc.%ext%
 config.inc.php~
 fcbayern/ajaxservice/
 female/brahmin
@@ -30614,7 +30614,7 @@ secur
 eyereturn/
 passatempos.php
 sec/
-admin_users.php
+admin_users.%ext%
 mt/corporate/
 pictos
 gs147/
@@ -30664,7 +30664,7 @@ general/org/
 mod/abtest/hbaseline.pl
 autoload
 wall/
-log_admin.php
+log_admin.%ext%
 pub/konkurs/zadachi.php
 computer-weekly
 gr/cardholderservices
@@ -30675,7 +30675,7 @@ contenttypeconvertersettings.aspx
 micros~1/
 admin/js/tinymce/
 phpcalendar
-adminarea/admin.php
+adminarea/admin.%ext%
 expediauk/
 nz/news/
 p/login/
@@ -31088,7 +31088,7 @@ price/
 appointway
 supply
 pirate/
-article.php
+article.%ext%
 smother
 ms/admin/
 kxcoupon/
@@ -31179,7 +31179,7 @@ simplicity/draft4/
 users/agent/
 cidades
 plg
-ad_admin.php
+ad_admin.%ext%
 touchold/
 copying
 alumni/portfolio/
@@ -31196,7 +31196,7 @@ tablet/
 assignment
 naemt/
 joebox
-banner.php
+banner.%ext%
 namecoin/tx/
 m.api.lianjia.com
 trony
@@ -31350,7 +31350,7 @@ s14
 article/sectionajax/
 example2
 samlits_ba
-admin_edite.php
+admin_edite.%ext%
 terminalserver
 under-the-shade
 writers-blog
@@ -31531,7 +31531,7 @@ mx/conversations/
 widerrufsbelehrung.php
 pufc/secure/
 hipp/
-adminemails.php
+adminemails.%ext%
 mla/
 tienda/ayuda/
 fluid-blue
@@ -31684,7 +31684,7 @@ helpdesk
 product/directory
 wholesalecheckout/
 smspush/
-admin-footer.php
+admin-footer.%ext%
 about/login/
 lv/lv/filter/tips/
 inc_functions
@@ -32520,7 +32520,7 @@ kanri/
 collections/picture/
 toolbar/options.cfg
 pww/
-imprimer.php
+imprimer.%ext%
 xrp/
 admin/signin
 resource/js/admin.js
@@ -32878,7 +32878,7 @@ mpturl
 vergleichen
 hot_ufi-live
 logout.cfm
-accounts.php
+accounts.%ext%
 my.favorites.phtml
 ws/
 howitworks.do
@@ -33211,7 +33211,7 @@ serv2
 products/sunglasses/frameshape/rectangle/frameshape/
 listing.html
 vb/index.php/archive/showthread.php
-catalog_admin.php
+catalog_admin.%ext%
 include/ajx.rssactu.php
 getform
 jsp/search.jsp
@@ -33314,7 +33314,7 @@ body.cfm.cfm
 jp/en/
 coin
 duanereade
-netadmin.php
+netadmin.%ext%
 lb/
 abe
 public/checkout/
@@ -33425,7 +33425,7 @@ site/lp2
 coverage.data
 crush-magazine
 play/live/programmes/
-thank-you.php
+thank-you.%ext%
 prismauser/
 products/sunglasses/popular/boutique/frametype/
 froogle_
@@ -33557,7 +33557,7 @@ overons/
 jp/bcn
 users/create
 kongbu/
-admin_area/index.php
+admin_area/index.%ext%
 disabled_11.gif
 order/discounts
 autodiscover.jobs
@@ -34225,7 +34225,7 @@ this-u
 wddx
 errors/creation
 products/441/pistoncylinder
-admin_edit_firm.php
+admin_edit_firm.%ext%
 arm
 product/qalist/
 finrapport/
@@ -34280,7 +34280,7 @@ icareers/
 search/content/
 htm/detail.asp
 editsection.aspx
-modelsearch/login.php
+modelsearch/login.%ext%
 helpcenter/print/
 smokeping
 shop/pkginfo/
@@ -35006,7 +35006,7 @@ bibis-yellow-dream
 products/survey.aspx
 maps/stk/
 .selected_editor
-forum_arc.php
+forum_arc.%ext%
 genetics/
 articleprint
 ip2c/
@@ -35248,7 +35248,7 @@ modo
 memcached
 smt.html
 komentari/
-admin_assist1.php
+admin_assist1.%ext%
 nashville/catalogsearch/
 tsts
 diskuse
@@ -35299,7 +35299,7 @@ texto
 qardz/
 livingos-upsilon
 texts
-thumb.php
+thumb.%ext%
 openair
 products/sunglasses/material/plastic/price/
 redesign/
@@ -35524,7 +35524,7 @@ colorofmoney
 jhjs/
 connections2015/breakoutsessions/
 firat/
-news.php
+news.%ext%
 jifen
 mnmltheme
 know
@@ -35971,7 +35971,7 @@ maximus-buddypress-theme
 decoder
 wpresources
 frs/redir.php
-admin_alldel.php
+admin_alldel.%ext%
 sw1
 sw0
 admin/sysadmin/
@@ -36211,7 +36211,7 @@ shanghai/
 pt/s.php
 site/login
 detmobileapp
-add_link.php
+add_link.%ext%
 tac/
 unterhaltung
 mozhga/
@@ -36577,7 +36577,7 @@ login.php/
 cn/cn/secure/
 galls
 configsgsec.config
-adminsfuckyou.php
+adminsfuckyou.%ext%
 martin1
 p66/
 obj/code/
@@ -36885,7 +36885,7 @@ listeblanche/
 quickconfession.php
 servidor
 dark-forest
-iissamples/exair/howitworks/codebrw1.php
+iissamples/exair/howitworks/codebrw1.%ext%
 site/error
 technoholic
 myft/
@@ -37004,7 +37004,7 @@ ecrire
 sparrows
 qm
 ql
-member/login.php
+member/login.%ext%
 selectpress.asp
 opd/
 roundcube
@@ -37102,7 +37102,7 @@ info/legal.html
 dede/
 christmas-theme
 municipios/
-exchange/logon.php
+exchange/logon.%ext%
 yaml
 de/user/
 fishers
@@ -37434,7 +37434,7 @@ gradjani/
 ktmlpro
 stilor
 email-users
-administracion.php
+administracion.%ext%
 includes/theme.maintenance.inc
 scripts/
 p2-green
@@ -37489,7 +37489,7 @@ membersignup
 classified-ads
 other
 crzyredbinks
-saveforlater.php
+saveforlater.%ext%
 php4
 php5
 mt/petition/kommentare/
@@ -37761,7 +37761,7 @@ stephane.batard$
 buzz/
 macmall/shop/
 metamorph_goldshire
-adminc.php
+adminc.%ext%
 medioselectronicos/content/bancobcr/index.html
 stephane.batard/
 templates/crub/
@@ -38276,7 +38276,7 @@ webdisk.email
 snag
 near-nothing
 webmaster.asp
-editsiteadmins.php
+editsiteadmins.%ext%
 de/get/
 spesa-twenty-eleven-child-by-iografica-it
 servlet/tojspservlet
@@ -38308,7 +38308,7 @@ green-grey-wide
 old_wp
 keizai/
 product/add/favorite/
-admin_dev.php
+admin_dev.%ext%
 products/sunglasses/popular/boutique/compatible/
 iblog2
 hezuounion/
@@ -38378,8 +38378,8 @@ confirmalert.aspx
 airplanes
 regadmin
 tz/
-shopadmin1.php
-admin_loader.php
+shopadmin1.%ext%
+admin_loader.%ext%
 m2css
 lucas
 emphaino
@@ -38648,7 +38648,7 @@ ramada
 videopress
 lv/checkout.aspx
 taurus
-admin_pdf.php
+admin_pdf.%ext%
 cartconfig
 newyorker
 modelo
@@ -38810,7 +38810,7 @@ mc.grafe$
 upgrade
 old-website
 site/pages
-secure.php
+secure.%ext%
 mc.grafe/
 langs
 hzpdp/
@@ -38923,7 +38923,7 @@ my-7px-life
 s8
 monitoring
 rivieramaya
-a%5c.php
+a%5c.%ext%
 s3
 dot-b
 customerror
@@ -38954,7 +38954,7 @@ echo/
 om/journal/2011
 golink/
 om/journal/2012
-admin_udown.php
+admin_udown.%ext%
 cimjobpostadmin
 mpanel
 openvpnadmin/
@@ -39055,7 +39055,7 @@ sidon
 custcert.php.en
 stringresources
 shoestrap
-admin_update.php
+admin_update.%ext%
 dandelion-dreams
 dj/
 e2e-tests
@@ -39388,7 +39388,7 @@ wp_shiftedblank
 hssi
 guiderequestor
 sipinsertmachere.cnf
-index_admin.php
+index_admin.%ext%
 weibo
 accounts.cfm
 movilresultadosdeportivos/
@@ -39457,7 +39457,7 @@ lu/verwaltung/
 tiantang2
 gis$
 citrix/metaframe/default/
-adminarea/index.php
+adminarea/index.%ext%
 email/settings/
 cosmic-wind
 empregos/title
@@ -39754,7 +39754,7 @@ reportbadoffer
 persondata/
 hew
 her
-bigdump.php
+bigdump.%ext%
 podarki/
 wasp
 tag/news
@@ -39977,7 +39977,7 @@ anvil-theme
 guest/ucp.php
 siteserver/
 sswthemes
-iissamples/exair/howitworks/code.php
+iissamples/exair/howitworks/code.%ext%
 album/download/
 bgt2
 savetmpl.aspx
@@ -40172,7 +40172,7 @@ sp
 customers.txt
 refuse
 cnx$
-admincurrency.php
+admincurrency.%ext%
 brokers/
 csadmin
 switchs/
@@ -40303,7 +40303,7 @@ newfile.html/
 myfigure/
 privatkunden/strom/hp.pk.strom.alle.stromkosten
 res/lib/
-members.php
+members.%ext%
 gadgets/gadget.php
 clique
 intermediate
@@ -40957,7 +40957,7 @@ heartmaker/heartmaker.cgi
 hds/header.swf
 jordanhr/
 httpdocs/
-log.php
+log.%ext%
 sale/o5/
 correoweb
 outlet2/
@@ -41290,7 +41290,7 @@ anzeigen/spezial/teaser
 godzilla
 srs
 login.cfm
-admin_options.php
+admin_options.%ext%
 streamline/player.aspx
 bolser-marine
 delay
@@ -42441,7 +42441,7 @@ en/cron.php
 activ.php
 cdrom/
 hausa/search
-admin_ldown.php
+admin_ldown.%ext%
 bannerads
 cw2
 ads/redirect/
@@ -42535,7 +42535,7 @@ search/totosearchtop/
 hackerproof/abreporting.html
 dispatches/
 highlights
-admin_bedit.php
+admin_bedit.%ext%
 kvdb
 videoplayer
 vente
@@ -42571,7 +42571,7 @@ nbproject/private/private.properties
 rocky
 funcdir/
 frsv/
-faq_admin.php
+faq_admin.%ext%
 alexis
 ja/campaigns/
 promag
@@ -42652,7 +42652,7 @@ users/authenticate/
 log/
 taula
 czpl/
-access_admin.php
+access_admin.%ext%
 mx/promos/
 rte/
 shsummer
@@ -42707,7 +42707,7 @@ test00
 test01
 prepaystore/topuplocator.aspx
 wcms
-mobile.php
+mobile.%ext%
 dh/
 pical
 inputmodels/
@@ -42781,7 +42781,7 @@ ebook
 asynchbeans/
 slmail
 staticpages
-admin.inc.php
+admin.inc.%ext%
 publicacion
 ibarakishi
 usernav
@@ -43012,7 +43012,7 @@ collections
 naturaagro
 js/ajax/
 baike/
-adminfunctions.php
+adminfunctions.%ext%
 easy
 platser/
 artists/search/
@@ -43329,7 +43329,7 @@ valentines.html
 providers/bluealertsearch/
 pretraga/
 sea/education
-adminindex.php
+adminindex.%ext%
 kind-of-business
 staff.html
 rd/jobdiplom/anketa.aspx
@@ -43554,7 +43554,7 @@ valerie.aucante/
 es/de/
 mailmkt
 newgrand/
-administration.php
+administration.%ext%
 provo
 info/$
 valerie.aucante$
@@ -43882,7 +43882,7 @@ k.php
 jas-personal-publisher-3
 unicode/admin/
 newposts
-admincp/login.php
+admincp/login.%ext%
 browse/
 general/russ/includes/
 pink-and-white-stars
@@ -43944,7 +43944,7 @@ toplevel
 linx/
 ecp_core
 lft
-administrateur.php
+administrateur.%ext%
 investor/
 iphone-love
 ]
@@ -44147,7 +44147,7 @@ shanxi/
 pt/player
 products/publications/
 vpresearch/sfuhomepg/
-activation.php
+activation.%ext%
 gmapscontroller
 touchwood
 articles/rubric/
@@ -44205,7 +44205,7 @@ student-life
 chklogin
 analytical-lite
 vacante/amenity/
-users/login.php
+users/login.%ext%
 chlen/
 orientation
 zenith
@@ -44287,7 +44287,7 @@ purchasingpower/
 lukoo
 publications/journalofmarketing/documents/
 tksearchadvanced
-admin_top.php
+admin_top.%ext%
 unreadreplies
 welcomadmin
 illustrious-lite
@@ -44775,7 +44775,7 @@ berater
 careers/checkout/
 flat-portfolio-bootstrap
 limo/
-payment.php
+payment.%ext%
 phpmemcachedadmin/
 ewebeditor
 products/sunglasses/gender/female/colour/
@@ -44847,7 +44847,7 @@ main.pye
 menu.cfm
 showpic/
 hr/rome/reports/
-groupadmin.php
+groupadmin.%ext%
 log_in.html
 project/erfan/5/scripts/expressinstall.swf
 jsp/category/category.jsp
@@ -45000,7 +45000,7 @@ cfexec.cfm
 maple
 nsw
 samantha
-shopadmin.php
+shopadmin.%ext%
 issue
 previewslider.htm
 haiti/landingpage/
@@ -45523,7 +45523,7 @@ mostwatched
 tadmin
 prj_11
 products/sunglasses/brand/swarovski/frameshape/
-oauth.php
+oauth.%ext%
 wings
 .syncignore
 amaranthine
@@ -45620,7 +45620,7 @@ phpadm/
 messaging
 classics
 super1.html
-admin_assist4.php
+admin_assist4.%ext%
 r755-light
 assets/docs/
 signup/v3/fast/
@@ -45982,7 +45982,7 @@ houses/sendmail.php/
 log/test.log
 tigervil/calendar/calendar.asp
 log-in.aspx
-admin_index.php
+admin_index.%ext%
 dat/
 jeux/genre/
 apply.php
@@ -46042,7 +46042,7 @@ usher/
 programs/multi/
 eventhandler
 scripts/press.pl
-admin_links.php
+admin_links.%ext%
 adduserpic.htm
 jobalert/
 black-skyline
@@ -46453,7 +46453,7 @@ desperate
 w_inc
 votate/
 minimatica
-adminer-3.4.0.php
+adminer-3.4.0.%ext%
 seiten/impressum/
 baris
 sp/login.html
@@ -46584,7 +46584,7 @@ houtaiapixp51011
 newssys
 slang/print/
 analyzer
-admin2/login.php
+admin2/login.%ext%
 showuserreviewsattractions
 admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx
 ssologon.aspx
@@ -46995,7 +46995,7 @@ ihygiene/
 bookmark-button
 ii-tango
 riversatile
-admin_iprev.php
+admin_iprev.%ext%
 hcn
 vb3/payments.php
 rda.asp
@@ -47045,7 +47045,7 @@ artiklertilnewsgate/
 getproduct.php
 scanned
 surveydocuments/
-admin_groups.php
+admin_groups.%ext%
 marie.garandeau$
 courses/
 vti_log
@@ -47085,7 +47085,7 @@ item_images
 wisebread$
 push-user
 il/admin/
-admin_settings.php
+admin_settings.%ext%
 sesc/
 products/quicklook.php
 wisebread/
@@ -47235,7 +47235,7 @@ ssinfo/
 sliders
 stylesheets/application.css
 cloudland
-admin-header.php
+admin-header.%ext%
 mangocreation/
 cgi-bin2/
 public/default/frontend/custom/images/
@@ -47502,7 +47502,7 @@ tinypress
 dump.sqlite
 featured/
 doc
-l.php
+l.%ext%
 m
 dog
 doe
@@ -47866,7 +47866,7 @@ one-pager
 hk/personal
 archive.tar
 ax/
-dashboard.php
+dashboard.%ext%
 ruesselsheim
 musique
 vdi
@@ -48062,7 +48062,7 @@ pt/kr/empl/
 consulting/catalog/
 user/transport
 uitest/
-backend.php
+backend.%ext%
 shared/gmapicons/
 chelseafc/fr/secure/
 crystalreports/viewrpt.cwr
@@ -48090,7 +48090,7 @@ scripts/error404.php
 managed
 site_graphics
 printing-design
-auth/login.php
+auth/login.%ext%
 adminbb
 unicode/login/login.jsp
 cobra
@@ -48388,7 +48388,7 @@ products/sunglasses/material/metal/price/
 step1/usmleqbankdemo/launchtest.html
 password/reset/done
 distributors
-admina.php
+admina.%ext%
 application/cache/
 create/
 ks_inc
@@ -49130,7 +49130,7 @@ project/anjoman/3/images/flash.swf
 franchising
 egress
 search.jsf
-admin/adminlogin.php
+admin/adminlogin.%ext%
 gift/redeem
 jscripts/tiny_mce/plugins/ajaxfilemanager/ajaxfilemanager.php
 getm2e
@@ -49325,7 +49325,7 @@ schedule2/
 my-envision
 mk/corporate/
 hideout
-admin_payment.php
+admin_payment.%ext%
 sourcing
 jurnaloficial/search
 hellobars/
@@ -50098,13 +50098,13 @@ map.asp
 topnav.aspx
 tianxia2
 freephotosanimals.com/
-admin_news.php
+admin_news.%ext%
 ssl01
 pbmadmin
 proyectos
 lt/web/fi/
 catalog_old
-forum.php
+forum.%ext%
 ced
 webfile/
 werbebanner
@@ -50373,7 +50373,7 @@ uploadfile.asp
 design2/
 black-with-orange
 tiendas/asturias/
-admin_user.php
+admin_user.%ext%
 rateguarantee.asp
 ns_
 cashback
@@ -50392,7 +50392,7 @@ immigration
 gauss
 ns8
 ns9
-pollbooth.php
+pollbooth.%ext%
 cooperation/
 signout.aspx.cs
 ns1
@@ -50615,7 +50615,7 @@ qawker-by-skatter-tech
 formulariosap.php
 lv/lv/user/register/
 survey/proend/
-pop_profile.php
+pop_profile.%ext%
 cert
 authors.pwd
 wwwroot.tar
@@ -50808,7 +50808,7 @@ jukeboxv3
 jukeboxv2
 viewcart
 wexportarchive
-config.php
+config.%ext%
 tianyu
 pt/petition/empfaenger/
 technotes
@@ -50868,7 +50868,7 @@ ayuda
 esquire
 relevanssi
 _captcha
-firmconnect.php
+firmconnect.%ext%
 winkelwagen
 asiasys
 pgsql
@@ -50964,7 +50964,7 @@ iom/mta/
 trustedtradesmen
 adminbeta
 responsimple
-admin_search_ip.php
+admin_search_ip.%ext%
 my-way
 vb/vbjj/
 proxy/smhui/getsmhlog
@@ -51019,7 +51019,7 @@ e/images/
 mic
 mid
 parks
-admin_board.php
+admin_board.%ext%
 mix
 getfiles.php
 forum.asp
@@ -51259,7 +51259,7 @@ volunteer
 virgin-skin
 divisions
 multi
-shopaffadmin.php
+shopaffadmin.%ext%
 flightreservation
 returbo/
 pws/client/australia.html
@@ -51284,7 +51284,7 @@ useralbums
 disseny
 kernel
 map/print.php
-admin1.php
+admin1.%ext%
 wintenniththewriters
 admin/admin.asp
 vb3/modcp/
@@ -51572,7 +51572,7 @@ savvypanda/
 tamo/
 t3-assets
 internals
-auth.php
+auth.%ext%
 qnotify
 \..\..\..\..\..\..\..\..\..\..\etc\passwd%00
 boards/review
@@ -51602,7 +51602,7 @@ py/py/ajaxservice/
 z-test
 incartelp/
 podrska/
-club_admin.php
+club_admin.%ext%
 proceed/
 gp/dmusic/
 frru/
@@ -51888,7 +51888,7 @@ ps1109mil3/
 metadata.rb
 products/
 kyouzai
-backend_dev.php
+backend_dev.%ext%
 trvbestbets/
 diabolique-pearl
 c:\wamp\www
@@ -52174,7 +52174,7 @@ moredetails
 phpmyadmin-3.3.3-rc1/
 sustainability/students.html
 jp/ajaxservice/
-reviewhelpful.php
+reviewhelpful.%ext%
 includes/helpers/
 cottages
 _source
@@ -52249,7 +52249,7 @@ showroom/
 life/xml/
 iissamples
 orlando/
-admin_deletecat.php
+admin_deletecat.%ext%
 claude
 upcoming/news/rss/
 jetbluegetawaysboston
@@ -52488,7 +52488,7 @@ speedtest
 makeoffer
 includes/database/pgsql/query.inc
 file.sql
-admin-odkazy.php
+admin-odkazy.%ext%
 schet
 movilrestaurantes/
 avanceradsokningbilar$
@@ -53025,7 +53025,7 @@ project/40vadi/5/images/news.swf
 static.php/topic/biz/
 webmaste
 dopytka/
-admincontrol.php
+admincontrol.%ext%
 productmorea30b0cdefgh0ijk44l.html
 ima01/
 nexus
@@ -53208,7 +53208,7 @@ mysql/sqlmanager/
 atomfeeds
 m_images
 midirectv/ppvbuynowthankyou.aspx
-admin_cat.php
+admin_cat.%ext%
 levels/
 removal.html
 extsearch/
@@ -53357,7 +53357,7 @@ phpserver/
 trustedstores/verify
 personaltrainer
 inventory/details/includes
-admininitems.php
+admininitems.%ext%
 klib
 ideas
 vivosmart/
@@ -53481,7 +53481,7 @@ searchcounter
 smhhelp.php.en
 xeon
 products/sunglasses/colour/silver/material/
-logon/logon.php
+logon/logon.%ext%
 v2/poll.php
 msite/suncorp
 elegant-grunge
@@ -53974,7 +53974,7 @@ transparencia/autoconfianza.html
 newpaymenterror.aspx
 ads1
 admin.dat
-admincatgroup.php
+admincatgroup.%ext%
 import_lib
 cntxml/comentario/
 all.videocdn
@@ -54680,7 +54680,7 @@ graphql.php
 hkc/wce
 cofig/
 schowek.html
-rd.php
+rd.%ext%
 es/downloads/
 login/register.asp
 fenie
@@ -54712,7 +54712,7 @@ piso.htm
 bloggnorge-a1
 modern-girl
 sports-betting
-bb-admin/index.php
+bb-admin/index.%ext%
 profiling
 formularservice
 toplists
@@ -54826,7 +54826,7 @@ webhost
 income/
 images/footer.jpg
 hjwx/4924.html/
-admin_awards.php
+admin_awards.%ext%
 flipbook/
 spusagesiteusers.aspx
 keyshot3/
@@ -55123,7 +55123,7 @@ section/
 blog-one
 zgrey
 vb/groupsubscription.php
-siteadmin/login.php
+siteadmin/login.%ext%
 apricot
 !_archives
 frmfish.aspx
@@ -55144,7 +55144,7 @@ nonindex/
 aestatement
 tpl
 elizabet
-administracao.php
+administracao.%ext%
 rheinland-pfalz
 myshowcase/
 pe/aboutus
@@ -55302,7 +55302,7 @@ jaru/
 traci
 night-royale
 goodies
-variables.php
+variables.%ext%
 mq.php
 aliasy/blad.jsp
 hmtcprod/
@@ -55360,7 +55360,7 @@ o.php
 phmyadmin
 products/sunglasses/material/titanium/size/
 lt/lt/filter/tips/
-wp-config.php
+wp-config.%ext%
 products/sunglasses/brand/monsoon/material/
 es/admin
 bd/
@@ -55427,7 +55427,7 @@ precompiledapp.config
 maba/
 sorg.svc/getorgdetail
 silesia
-content.php
+content.%ext%
 governorrowland/
 vergelijken
 privatkunden/kontakt/rueckrufverarbeitungajax
@@ -55525,7 +55525,7 @@ world2
 welcome/index.html
 products/sunglasses/colour/reds/colour/
 centerphotos
-banners.php
+banners.%ext%
 de/reservation/
 glenn
 dev1
@@ -55667,7 +55667,7 @@ admin-login.aspx
 fotos/
 read%20me.txt
 chubb.xml
-index.php
+index.%ext%
 qs-ru
 bookmark.html
 project/ariya/1/images/header.swf
@@ -55915,7 +55915,7 @@ mco/sendmoney
 dlp
 schedule.php
 p2-red
-about.php
+about.%ext%
 relationships/add
 .hg/requires
 linkinfo/
@@ -56092,7 +56092,7 @@ hinagata
 ipoteka/
 ref/
 sozai
-admin_messages.php
+admin_messages.%ext%
 lianxingzhuanti/xnlxzt/
 copyrightcheck
 pt/banners/
@@ -56372,7 +56372,7 @@ simiya
 demolision-black
 margaret
 careers/folders/
-admin_left.php
+admin_left.%ext%
 indivlecturer/
 homemapajax
 debian
@@ -56460,7 +56460,7 @@ listview
 thetesttheme
 new_web
 indexe.php
-admin_imgmod.php
+admin_imgmod.%ext%
 shuwo/wodexinshupinglun.asp
 tag/film/
 esop
@@ -56772,7 +56772,7 @@ in/quoteform.htm
 configuration.php.dist
 frs/
 accounts/logon
-admin-functions.php
+admin-functions.%ext%
 pagamento/
 debug
 splendio/
@@ -56908,7 +56908,7 @@ users/messages/
 active-red
 oglasi
 technique
-admin_censoring.php
+admin_censoring.%ext%
 wishlistdisplayview
 evil
 ics/support/
@@ -57694,7 +57694,7 @@ pvtc/mktgtools/
 vkladane/
 productdetails.jsp
 jsearch.php
-iissamples/sdk/asp/docs/codebrws.php
+iissamples/sdk/asp/docs/codebrws.%ext%
 nosmoke/
 galileo
 rent/
@@ -58094,7 +58094,7 @@ sad
 v3/login/resetpassword/
 recipitem/
 say
-iissamples/exair/howitworks/codebrws.php
+iissamples/exair/howitworks/codebrws.%ext%
 stanley
 sas
 minimalizam
@@ -58464,7 +58464,7 @@ admin/admin_login.html
 espanol/masinfo/
 subnew.aspx
 xml_xmlbean
-adminarea/login.php
+adminarea/login.%ext%
 personals
 fx/config/phplib/
 gdm
@@ -58472,7 +58472,7 @@ searchwishlists
 nymag/letters/14872/
 puppies/search.php
 contentserver
-settings.php
+settings.%ext%
 simply-elegant
 interstitial
 gsgou.users
@@ -58671,7 +58671,7 @@ leaderboard/users
 muriel.pezet/
 milk-honey-israel
 ehs.web
-adm/admloginuser.php
+adm/admloginuser.%ext%
 certain
 forgot
 gift/
@@ -58921,12 +58921,12 @@ libview/
 select
 proc/mounts
 conf/fastcgi_params
-nsw/admin/login.php
+nsw/admin/login.%ext%
 products/sunglasses/colour/reds/popular/
 roady/
 webadmin/login.php
 proxy/pac/proxy.pac
-admincenter.php
+admincenter.%ext%
 flowers/
 ltbg
 _portal
@@ -59178,7 +59178,7 @@ storage/logs/laravel.log
 welcome/res/
 forms/media/
 medizina/
-footer_admin.php
+footer_admin.%ext%
 freegift
 project/40vadi/5/images/text
 maryse.henry/
@@ -59278,7 +59278,7 @@ jordancu.html
 nz/flash/
 gye
 cgu.php
-admin/admin_login.php
+admin/admin_login.%ext%
 flashcam2
 flashcam3
 flashcam4
@@ -59527,7 +59527,7 @@ lafang/
 ml2
 scripts/wgate
 mina
-searchresults.php
+searchresults.%ext%
 checkuser.jsp
 datepicker/
 sites/all/modules/fckeditor
@@ -60082,7 +60082,7 @@ project/ensa/4/header.swf
 updatearticles.php
 publicus.ini
 struct/
-actions_admin.php
+actions_admin.%ext%
 firefox
 pac/.pac
 sendmessage.php
@@ -60427,7 +60427,7 @@ inside.html/
 inscriptions
 sweetpea
 promo/email/
-gb_admin.php
+gb_admin.%ext%
 autobackup.php
 message.php.en
 products/sunglasses/colour/grey/compatible/
@@ -60711,7 +60711,7 @@ healthunlockedpro$
 sewing/sewing/creations
 carrinho
 bugtrack
-utilitiesadmin.php
+utilitiesadmin.%ext%
 products/sunglasses/frameshape/aviator/colour/
 hb/
 search/m.emag.ro
@@ -60829,7 +60829,7 @@ kramer
 businessidea
 outsidejobsdb.asp
 uitschrijven
-admin_template.php
+admin_template.%ext%
 &classificacao=
 cssg
 .gitmodules
@@ -61017,7 +61017,7 @@ public/showcategoryrankingsummaryuseful.do
 affiliate.jsp
 java.asp
 sliderfunktion.php
-admin_process.php
+admin_process.%ext%
 servlet/testservlet
 nkflash/
 lyncedge
@@ -61378,12 +61378,12 @@ landandwater/iptrid/
 david
 uae
 qualifyaccount
-wp-login.php
+wp-login.%ext%
 indir
 sip1
 v3/whosonlinenow/
 ning
-admincp/index.php
+admincp/index.%ext%
 .old
 releasehold.aspx
 song
@@ -61620,7 +61620,7 @@ mx/api/
 power1
 advice/activity/
 jyjs/
-admin_logon.php
+admin_logon.%ext%
 expadmin
 movetoarchive
 resources/dashboard/
@@ -61737,7 +61737,7 @@ zehir.aspx
 lojaviva/
 orlando
 ts1.dehkadeyedownload.ir/
-affiliate.php
+affiliate.%ext%
 magento/
 play/7
 ugandamusicvideosonline/
@@ -61884,7 +61884,7 @@ mercurio
 tester/
 ~superconsciente
 netadmin.shtml
-bb-admin/admin.php
+bb-admin/admin.%ext%
 laurette.reboul/
 schools/cpcs/
 protuff
@@ -61945,7 +61945,7 @@ admin.aspx
 form.php
 mods/ajax/
 development.log
-admin/admin.php
+admin/admin.%ext%
 soundlab/otohaiku/2008/
 dz.php
 vb/report.php
@@ -62121,7 +62121,7 @@ wp-opencart
 products/games/postrating
 careers/coverletters/
 reply.php
-version.php
+version.%ext%
 vliesk/block/
 defaultlogin.aspx
 highschool/catalog/results.pperl
@@ -62286,7 +62286,7 @@ in/general
 .placeholder
 archivo
 ps/printpreview.aspx
-admin_banner.php
+admin_banner.%ext%
 wisecode
 scenery/ticketorder.aspx
 archive
@@ -62491,7 +62491,7 @@ s/checkout/
 joesentme/
 typograph-ii
 bbuser/
-mailform.php
+mailform.%ext%
 routard
 albumcatalogweb/docs/*
 front/myzone/
@@ -63329,7 +63329,7 @@ hk/hk/ajaxservice/
 pltracking/
 landingpagecurso2.php
 cust50
-admin_logs.php
+admin_logs.%ext%
 vb/reputation.php
 cust51
 products.cfm
@@ -63423,7 +63423,7 @@ watchdog
 your
 protected/config/
 in-addr
-adminer-3.4.0-mysql.php
+adminer-3.4.0-mysql.%ext%
 weird/
 virgulition
 rne/sello/
@@ -63764,7 +63764,7 @@ aupa
 uniglobetravel/
 catsicons
 sentinelle
-admin_menu.php
+admin_menu.%ext%
 getmag.php
 index.js
 adovbs.inc
@@ -63783,7 +63783,7 @@ private.mdb
 common/search/
 _errors
 pubres/
-cp.php
+cp.%ext%
 lib/twitter/start.php
 processors
 livetombord/abuse.php
@@ -64288,7 +64288,7 @@ loja/exclusivo
 porovnat/
 mobile/viewcomment.aspx
 platz_login/
-adminbanners.php
+adminbanners.%ext%
 whatever
 solucoes/
 access_log.1
@@ -64584,7 +64584,7 @@ sandra
 horarios/resultados
 tip-a-friend
 slide.swf
-iishelp/iis/misc/default.php
+iishelp/iis/misc/default.%ext%
 prd/cybermut/
 my/
 testarea
@@ -65137,7 +65137,7 @@ qrcode/disk/
 phpmyadmin-2.6.2-rc1/
 advancedsearch
 sustainable
-wishlist.php
+wishlist.%ext%
 videodetails.forumquestions
 searchresults.aspx
 video+games/
@@ -65178,7 +65178,7 @@ cas/oldsite/
 activity$
 shager/
 iprimus
-admin_setup.php
+admin_setup.%ext%
 spots
 web/cms/de/tvguide.jsp
 common.inc
@@ -65310,7 +65310,7 @@ cj/
 black-pearl
 medal/
 irps2
-admin_usrmgr.php
+admin_usrmgr.%ext%
 sections/travel/popoff/
 cpbt.php
 geography/ivogeler/
@@ -65596,7 +65596,7 @@ pull
 lu/banners/
 wordpress-elegant-purpose-theme
 iapa/
-advworks/equipment/catalog_type.php
+advworks/equipment/catalog_type.%ext%
 childishly-simple
 fvare.php
 salons
@@ -66538,7 +66538,7 @@ mrtg/
 groups.php.en
 southwales
 nevada
-popup_songs.php
+popup_songs.%ext%
 export/
 export.
 kebo-twitter-feed
@@ -66557,7 +66557,7 @@ libary
 ba/
 public/advertisement/passports/
 cmsadmin
-admindav.php
+admindav.%ext%
 _we_info5
 authentication.aspx
 laurag/
@@ -66882,7 +66882,7 @@ shinra-of-the-sun
 huwai/lushu/
 taolun/calendar.php
 quicksearch
-admin_ads.php
+admin_ads.%ext%
 manual
 phpmyadmin-2.6.0-rc1/
 goods_script.php
@@ -67626,7 +67626,7 @@ staff/news
 rufus
 rdr/
 lfprxly.php
-s2dshopadmin.php
+s2dshopadmin.%ext%
 subscription.jhtml
 seal
 modelle/page/
@@ -68472,7 +68472,7 @@ jd/
 blackypress
 purchase/checkout/
 mappress-google-maps-for-wordpress
-exchange/root.php
+exchange/root.%ext%
 products/lp07/
 amfgateway.php
 product/517499
@@ -68641,7 +68641,7 @@ okc
 kcaptcha
 indonesia/require.php
 mailredirect/
-signin.php
+signin.%ext%
 facets.xqy
 mall/propeller/
 include/content/details/empfehlen.html
@@ -68844,7 +68844,7 @@ solve
 template_dwt
 passwordrecovery/confirm
 cidr.txt
-advsearch.php
+advsearch.%ext%
 order1/
 pony-project
 subtitles/search/
@@ -69112,7 +69112,7 @@ includes/swfupload/swfupload_f9.swf
 web/uploads/
 outstanding/
 userimg
-linkadmin.php
+linkadmin.%ext%
 programpdf
 relaxing-spa-theme
 users/remind/
@@ -70075,7 +70075,7 @@ emailsettings.aspx
 acceso.php
 meuspedidos/
 sisi
-reorder.php
+reorder.%ext%
 gj/pages/
 web-console/status
 connector/
@@ -70388,7 +70388,7 @@ insure
 alku
 krefeld/site/content/werbevorlagen/233
 malaga
-adminstatistics.php
+adminstatistics.%ext%
 evening-sun
 remwrkfl.aspx
 seth
@@ -70444,7 +70444,7 @@ toolaspshell.asp
 fteste
 mf-inferno-v4-0
 fotos/stylesheets
-shopcustadmin.php
+shopcustadmin.%ext%
 recommendations/
 anadol/
 fyi
@@ -70481,7 +70481,7 @@ getcdnserver.mp4
 single-sided
 customdictionary
 paylink.html
-admin-ajax.php
+admin-ajax.%ext%
 autodiscover.webmail
 press-releases
 js/2014/oxfullscreen.js
@@ -70688,7 +70688,7 @@ omega/
 vitessewic/
 soquel
 v2/policies/
-admin_main.php
+admin_main.%ext%
 i-can-watch-movies
 seo-forum
 vci
@@ -70825,7 +70825,7 @@ frgallery/
 unlimitednewsletter/
 brown-wp-theme-green
 changed
-admin/home.php
+admin/home.%ext%
 phpeventcalendar
 secureformmoneybookers.aspx
 submitbox/
@@ -70970,7 +70970,7 @@ knowledgebase/allkeywords.cmp
 qintex$
 api/v1/trebuchet
 om/journal/2016
-admin_admin.php
+admin_admin.%ext%
 customer-support
 jifen/exchange
 hoteli/
@@ -71080,7 +71080,7 @@ klru/mt4/
 landing/now/ontap/
 artiklertilescenic/
 pricing/getprice
-rcjakar/admin/login.php
+rcjakar/admin/login.%ext%
 bodog
 moneycenter/mesalertes/
 joomgallery
@@ -71284,7 +71284,7 @@ metas
 k8
 haha
 summary/
-include_admin.php
+include_admin.%ext%
 juegos
 mall/func.coverfinder/
 catall
@@ -71497,7 +71497,7 @@ typografia
 dramaticlearning/
 book-reviews
 math/acceleration
-rpc.php
+rpc.%ext%
 bea_wls9_async_response
 ie/cart
 mtbd/4509.html/
@@ -72001,7 +72001,7 @@ quickstockmarket.php
 jsinc
 q6
 customer/activation
-funciones.php
+funciones.%ext%
 _awstats/
 masterfoods/
 products/funds/content/mfpopup.html
@@ -72567,7 +72567,7 @@ uniforum/
 exchange/logon.asp
 ref.php
 lnk
-administrator.php
+administrator.%ext%
 en/register
 instruct.html
 jdb/
@@ -72592,12 +72592,12 @@ pdd/
 v4
 people/profile
 __temp__
-siteadmin/index.php
+siteadmin/index.%ext%
 p/downloads
 coms
 phpcms/
 db/myadmin/
-adm.php
+adm.%ext%
 referir/
 riceblogger-3-colume-wordpress-theme
 comm
@@ -72625,7 +72625,7 @@ unocfla
 sv/logout
 needles
 sawantwadi/map/mumbai/
-adminhome.php
+adminhome.%ext%
 blogpost/
 pakistan
 tlight
@@ -73236,7 +73236,7 @@ vb/newthread.php
 vpm/
 system/files/
 geekamazon.php
-admin-login.php
+admin-login.%ext%
 issrc
 mv.php
 admin-newcms
@@ -73586,7 +73586,7 @@ visonline/
 from/
 filmix
 summerboxgiveaways/
-info.php
+info.%ext%
 cl/landingpage/
 jutek/pds/qnastudy/
 quickstart/wwsample.nsf
@@ -73720,7 +73720,7 @@ fons
 webauctioneventinput/
 xiaolei.php/
 hi/
-admin_advert.php
+admin_advert.%ext%
 includes/ajax.inc
 provincia
 anvil
@@ -73812,7 +73812,7 @@ florally
 profile/$/stream/
 frme
 permalink/
-admin_compactdb.php
+admin_compactdb.%ext%
 mailclick/
 o/tuan/
 htregister2.aspx
@@ -74231,7 +74231,7 @@ abprosystems/
 admin.zip/
 propostaenvia.asp
 familie
-moderator.php
+moderator.%ext%
 weblogic.properties
 jsp/admin
 my-blue-construction
@@ -74547,7 +74547,7 @@ entreprises
 samplereports
 herve.girodon/
 gpra/
-admin-post.php
+admin-post.%ext%
 vb3/profile.php
 advertorial/
 kvm1
@@ -74835,7 +74835,7 @@ socialmedia
 billing.jhtml
 redadmin
 warmwinter
-admin_config.php
+admin_config.%ext%
 destination/
 building
 wssproc/cert
@@ -75125,7 +75125,7 @@ latexrender/latexcode.php
 clearly-obscure
 mp/register.php
 demo3
-articles.php
+articles.%ext%
 isave
 bbt
 bbs
@@ -75254,7 +75254,7 @@ menu_bt
 converturl.jsp
 wordpress-in-red
 educlass
-admin_welcome.php
+admin_welcome.%ext%
 hotels/reservations
 illinois
 elegant-glass
@@ -75277,7 +75277,7 @@ hwarang/
 examples/%252e%252e/manager/html
 hochu/
 white-and-orange-blog-theme
-adminfunction.php
+adminfunction.%ext%
 remindme
 scripts/customerservicefaq.asp
 foren/badge/
