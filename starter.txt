@@ -71924,3 +71924,5 @@ dologin
 dologin.jsp
 dologin.asp
 dologin.js
+secret.txt
+secrets.txt
