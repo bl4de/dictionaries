@@ -1,0 +1,264 @@
+# source: http://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# headers: TLD entity explanation notes IDN DNSSEC SLD
+# ---------------------------------------------------------------------
+.ac      Ascension Island               Commonly used for academic websites, such as universities. However, .ac is not to be confused with the official British academic domain .ac.uk. Yes     Yes     Yes     Yes
+.ad      Andorra                Local trademark, trade name or citizenship required [5][6]              Yes     Yes
+.ae      United Arab Emirates                           No      Yes
+.af      Afghanistan                            Yes     Yes
+.ag      Antigua and Barbuda            Also unofficially used by German businesses (where AG is an abbreviation of Aktiengesellschaft, a legal entity form similar to a corporation limited by shares)         Yes     Yes
+.ai      Anguilla                               No      Yes
+.al      Albania                Citizenship no longer required          No      Yes
+.am      Armenia                Also unofficially used by AM radio stations or related business         Yes     Yes
+.an      Netherlands Antilles           Local presence required; Netherlands Antilles were dissolved on October 10, 2010.               No      Yes
+.ao      Angola                         No      Unknown
+.aq      Antarctica     Antarctique     Defined by the Antarctic Treaty as everything south of latitude 60°S. AQ domain names are available to government organizations who are signatories to the Antarctic Treaty and to other registrants who have a physical presence in Antarctica.                No      Yes
+.ar      Argentina                      Spanish[cctld 1]        No      No      Yes
+.as      American Samoa                 Yes     No      Yes
+.at      Austria                                Yes     Yes
+.au      Australia              Restrictions apply. In general, registrants must be Australian, and most have a minimum 2 year registration period.[7] Includes Ashmore and Cartier Islands and Coral Sea Islands.              Yes     No
+.aw      Aruba  Aruba, West Indies      Restricted to registered Aruban companies, organisations and citizens           Yes     Yes
+.ax      Åland          Restricted to registered Åland companies, organisations and citizens            No      Yes
+.az      Azerbaijan                             No      Yes
+.ba      Bosnia and Herzegovina                         No      Yes
+.bb      Barbados                               No      Yes
+.bd      Bangladesh                     Yes     No      Yes
+.be      Belgium                Also unofficially used in the canton of Bern, Switzerland       Latin[8]        Yes     Yes
+.bf      Burkina Faso                           No      Yes
+.bg      Bulgaria                       Russian and Bulgarian[8]        Yes     Yes
+.bh      Bahrain                                No      Yes
+.bi      Burundi                                No      Yes
+.bj      Benin                          No      Yes
+.bm      Bermuda                Local corporate registration required           No      Yes
+.bn      Brunei                         No      No
+.bo      Bolivia                                No      Yes
+.bq      Bonaire                Not yet assigned as of 25 Nov 2014
+.br      Brazil         Restricted. Registration is done under several categories (i.e.: .edu.br for higher education institutions, .gov.br for government agencies, etc.)[9]   Yes[10] Yes     No[cctld 2]
+.bs      Bahamas                                No      Yes
+.bt      Bhutan                         No      No
+.bv      Bouvet Island          Not in use (Norwegian dependency; see .no).     No      No      No
+.bw      Botswana                               No      Yes
+.by      Belarus        Byelorussia     also unofficially used to denote Bayern (Bavaria), Germany              Yes     Yes
+.bz      Belize                         Yes     Yes
+.ca      Canada         Subject to Canadian Presence Requirements.      French[cctld 3] Yes     Yes
+.cc      Cocos (Keeling) Islands                Australian territory: not to be confused with Cocos islands in Guam. Also used as a free domain service to the public as cc.cc, cu.cc or cz.cc domain.          Yes     Yes
+.cd      Democratic Republic of the Congo                               No      Yes
+.cf      Central African Republic                               No      Yes
+.cg      Republic of the Congo                          No      Yes
+.ch       Switzerland   Confoederatio Helvetica (Latin)         Yes[cctld 4]    Yes     Yes
+.ci      Côte d'Ivoire                          No      Yes
+.ck      Cook Islands                           No      Yes
+.cl      Chile                  Yes     Yes     Yes     Yes
+.cm      Cameroon               A local entity/company in Cameroon is required to register a domain name.               No      Yes
+.cn      People's Republic of China             A local company in China is required to register a domain name, or for personal registrations a valid Resident Identity Card. See ICP license for more information regarding registrations. Hong Kong and Macau also maintain TLDs.             Yes     Yes
+.co      Colombia               Marketed as a global domain – recognized as a gccTLD by Google. Anyone can register.            Yes     Yes
+.cr      Costa Rica                             Yes     Yes
+.cs      Czechoslovakia
+ Serbia and Montenegro          This ccTLD was deleted around January 1995.
+The ISO 3166-1 alpha-2 code CS was later assigned to Serbia and Montenegro but that country continued to use the ccTLD .yu instead until 2007 where recently split Serbia and Montenegro were assigned .rs and .me respectively
+.cu      Cuba                           No      Yes
+.cv      Cape Verde                             No      Yes
+.cw      Curaçao        Curaçao, West Indies                    No      Unknown
+.cx      Christmas Island                               Yes     Yes
+.cy      Cyprus                         No      No
+.cz      Czech Republic                 No[cctld 5]     Yes     Yes
+.dd      East Germany   Deutsche Demokratische Republik Was proposed, but never implemented due to German re-unification.
+.de      Germany        Deutschland     German postal address for administrative contact (admin-c) required. Proxy registrations are allowed.   Yes[cctld 6]    Yes     Yes
+.dj      Djibouti                               No      Yes
+.dk      Denmark                        Yes[cctld 7]    Yes     Yes
+.dm      Dominica                               No      Yes
+.do      Dominican Republic                             No      Yes
+.dz      Algeria        al-Jazair, also sometimes transliterated Djazair                        No      Yes
+.ec      Ecuador                                No      Yes
+.ee      Estonia        Eesti   Anyone can register but local administrative contact is required.       Yes[cctld 8]    Yes     Yes
+.eg      Egypt                          No      Yes
+.eh      Western Sahara Saguia el-Hamra .eh is reserved for Western Sahara, but does not exist in the root.
+.er      Eritrea                Inactive – The domain registrar Eritrea Telecommunication Services Corporation offers no services to register domains.          No      No
+.es      Spain  España                  No      Yes
+.et      Ethiopia                               No      No
+.eu      European Union         Restricted to legal and natural persons in European Union member states. Previously unofficially used for sites in the Basque language, but now .eus is in official use.        Yes[cctld 9]    Yes     Yes
+.fi      Finland                Restricted to legal and natural persons residing in Finland.    Yes[cctld 10]   Yes     Yes
+.fj      Fiji                           No      Yes
+.fk      Falkland Islands                               No      No
+.fm      Federated States of Micronesia         Also unofficially used by FM radio stations or related business         No      Yes
+.fo      Faroe Islands  Føroyar                 Yes     Yes
+.fr      France         Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]    Yes[cctld 12]   Yes     Yes
+.ga      Gabon                          No      Yes
+.gb      United Kingdom Great Britain   Deprecated.[12] The primary ccTLD used for the United Kingdom is .uk.           No      No
+.gd      Grenada                                Yes     Yes
+.ge      Georgia                Available for registration for residents of Georgia (unlimited) or for foreign companies via representation of any local legal person (one domain name per registrant)[13]      No      No      Yes
+.gf      French Guiana  Guyane française                        No
+.gg      Guernsey       Guernsey/Guernesey                      No      Yes
+.gh      Ghana                          No      No
+.gi      Gibraltar                              Yes     Yes
+.gl      Greenland              Previously also unofficially used in Galicia, Spain, but now .gal has been approved for such use, to be implemented in 2014             Yes     Yes
+.gm      The Gambia                             No      Yes
+.gn      Guinea         A local contact is required             Yes     No
+.gp      Guadeloupe             Still used for Saint-Barthélemy and Saint-Martin                No      Yes
+.gq      Equatorial Guinea      Guinée équatoriale                      No
+.gr      Greece                 Yes[cctld 13]   Yes     Yes
+.gs      South Georgia and the South Sandwich Islands                           Yes     Yes
+.gt      Guatemala                      Yes     No      Yes
+.gu      Guam                           No      No
+.gw      Guinea-Bissau                          No      Yes
+.gy      Guyana                         No      Yes
+.hk      Hong Kong              Special administrative region of the People's Republic of China.        Yes     No      Yes
+.hm      Heard Island and McDonald Islands                              No      Yes
+.hn      Honduras                               Yes     Yes
+.hr      Croatia        Hrvatska                        Yes     Yes
+.ht      Haiti                  Yes     No      Yes
+.hu      Hungary                citizens of EU or entity established by virtue of law in the territory of EU            No      Yes
+.id      Indonesia              Restricted to Indonesian companies (co.id), organisations (or.id), academic (ac.id & sch.id) and citizens (biz.id, my.id & web.id). Second-level domains are becoming available now and will be open to general registration on August 17, 2014.[14]    Yes     Partial[15]     Yes
+.ie      Ireland                In 2002, registration was expanded to include persons or businesses with a "real and substantive" connection with the island of Ireland (including Northern Ireland).[16][17]   No      No      Yes
+.il      Israel                 Yes     No      No
+.im      Isle of Man                            No      Yes
+.in      India          Under INRegistry since April 2005 (except: gov.in, nic.in, mil.in, ac.in, edu.in, res.in).              Yes     Yes
+.io      British Indian Ocean Territory         Used unofficially by technology companies/startups/web applications because IO can be an acronym for input/output which is useful for domain hacks.             Yes     Yes
+.iq      Iraq                           Partial[15]     Yes
+.ir      Iran                   Yes     No      Yes
+.is      Iceland        Ísland          Yes     Yes     Yes
+.it      Italy          Restricted to companies and individuals in the European Union.  Yes[cctld 14]   No      Yes
+.je      Jersey         -je is used in Dutch to form a diminutive: boek = a book, boekje = a little book                No      Yes
+.jm      Jamaica                                No      No
+.jo      Jordan                         No      Yes
+.jp      Japan          Restricted to individuals or companies with a physical address in Japan.                Yes     Yes
+.ke      Kenya                          Yes     No
+.kg      Kyrgyzstan                             Yes     Yes
+.kh      Cambodia       Khmer, former Kâmpŭchea                 No      No
+.ki      Kiribati                               Yes     Yes
+.km      Comoros        Komori                  No      Yes
+.kn      Saint Kitts and Nevis                          No      Yes
+.kp      Democratic People's Republic of Korea                          No      No
+.kr      Republic of Korea                      Yes     Yes     Yes
+.kw      Kuwait                         No      No
+.ky      Cayman Islands         Restricted to qualified Cayman entities[18]             No      Yes
+.kz      Kazakhstan                             No      Yes
+.la      Laos           Currently being marketed as the unofficial domain for Los Angeles[19]           Yes     Yes
+.lb      Lebanon                Restricted to registration with a company in Lebanon            Yes     No
+.lc      Saint Lucia                            Yes     Yes
+.li      Liechtenstein          Also used by Long Island        Yes     Yes     Yes
+.lk      Sri Lanka      Lanka                   Yes     Yes
+.lr      Liberia                                Partial[15]     No
+.ls      Lesotho                                No      No
+.lt      Lithuania                      Yes     Yes     Yes
+.lu      Luxembourg                     Yes     Yes     Yes
+.lv      Latvia                 Yes     Yes     Yes
+.ly      Libya                          No      Yes
+.ma      Morocco        Maroc   Also used as a free domain service to the public as cu.ma               Partial[15]     Yes
+.mc      Monaco         Only for companies with a trademark registered in Monaco                No      Yes
+.md      Moldova                Restricted to individuals or companies with a physical address in Moldova.              No      Yes
+.me      Montenegro                             Yes     Yes
+.mg      Madagascar                             No      Yes
+.mh      Marshall Islands                               No
+.mk      Macedonia      Makedonija      Restricted to registration with a company in Macedonia          No      Yes
+.ml      Mali           Also used as a free domain service to the public.               No      Yes
+.mm      Myanmar                                Yes     No
+.mn      Mongolia               The second-level domains '.gov.mn', '.org.mn', and '.edu.mn' are reserved for special use. See .mn for more information.                Yes     Yes
+.mo      Macau  Macao   Special administrative region of the People's Republic of China. Registrants must have a registered business in Macau, with the same name as the domain they wish to register.[20]              No      Yes
+.mp      Northern Mariana Islands       Marianas Pacific                        No      Yes
+.mq      Martinique                             No      No
+.mr      Mauritania                             No      Yes
+.ms      Montserrat                             No      Yes
+.mt      Malta                          No      No
+.mu      Mauritius                              No      Yes
+.mv      Maldives                               No      Yes
+.mw      Malawi                         No      Yes
+.mx      Mexico                         No      Yes
+.my      Malaysia               Restricted to registration by an individual or company in Malaysia      Yes[cctld 15]   Yes     Yes
+.mz      Mozambique                             No      No
+.na      Namibia                                Yes     Yes
+.nc      New Caledonia          Restricted to companies that have a New Caledonian Business Registration Certificate or individuals living in New Caledonia for at least 6 months.              Yes     Yes
+.ne      Niger                          No      Yes
+.nf      Norfolk Island                         Yes     Yes
+.ng      Nigeria                                No      Yes
+.ni      Nicaragua                              No      No
+.nl      Netherlands    Nederland       First official country code TLD.[21]    No      Yes     Yes
+.no      Norway         Businesses and professionals must be registered as an approved type of organization in the Brønnøysund Register Centre. Individual applicants must be of age (18 years) and be registered in the Folkeregisteret. All applicants must have a Norwegian postal address.  Yes     No      Yes
+.np        Nepal                All .np domains are free to register for individuals and registered businesses.         No      No
+.nr      Nauru          Also used as a free domain service to the public as co.nr.              No      Yes
+.nu      Niue           Commonly used by Danish, Dutch and Swedish websites, because in those languages "nu" means "now".       Yes     Yes     Yes
+.nz      New Zealand                    Māori[cctld 16] Yes     Yes[22]
+.om      Oman           Registrant must have company or trademark registered in Oman as well as a local administrative contact.         No      No
+.pa      Panama                         No      No
+.pe      Peru                   Yes[cctld 17]   Yes     Yes
+.pf      French Polynesia       Polynésie française     With Clipperton Island          No      Yes
+.pg      Papua New Guinea                               No      No
+.ph      Philippines                            No      Yes
+.pk      Pakistan               Operated by PKNIC since 1992            No      Yes
+.pl      Poland                 Yes[cctld 18]   Yes     Yes
+.pm      Saint-Pierre and Miquelon              Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]    Yes     Yes
+.pn      Pitcairn Islands                               No      Yes
+.pr      Puerto Rico                            Yes     Yes
+.ps      State of Palestine[23]         West Bank and Gaza Strip.               No      Yes
+.pt      Portugal                       Portuguese      Yes     Yes     Yes[24]
+.pw      Palau  Pelew                   Yes     Yes
+.py      Paraguay                               No      No
+.qa      Qatar                          No      No
+.re      Réunion                Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]    Yes[cctld 12]   Yes     Yes
+.ro      Romania                                No      Yes     Yes [25]
+.rs      Serbia Republika Srbija                        No      Yes
+.ru      Russia         See also .su, still in use, and .рф, for IDN.   No      Yes     Yes     Yes
+.rw      Rwanda                         No      Yes
+.sa      Saudi Arabia           Registrant must have a registered trademark in Saudi Arabia matching the domain name to register or provide company incorporation documents of a company in Saudi Arabia or for personal registrations a copy of valid ID. A letter on the official letterhead of your organization addressed to SaudiNIC requesting the domain name registration is also required. Local administrative contact required. 2LD registrations rolled out in 2011.[26]    Arabic[8]       No      Yes
+.sb      Solomon Islands        British Solomon Islands                 Yes     No
+.sc      Seychelles                             Yes     Yes
+.sd      Sudan                          No      Yes
+.se      Sweden                 Yes[cctld 19]   Yes     Yes
+.sg      Singapore                              No      Yes
+.sh      Saint Helena                   Yes[cctld 20]   Yes     Yes
+.si      Slovenia                       Yes[cctld 21]   Yes     Yes
+.sj      Svalbard and
+ Jan Mayen Islands              Not in use (Norwegian dependencies; see .no).   No      Yes[27] No
+.sk      Slovakia               Restricted to Slovak companies, organisations and citizens              No      Yes
+.sl      Sierra Leone                           No      Yes
+.sm      San Marino             Domain name must be same as company name or trademark           No      Yes
+.sn      Senegal                                No      Yes
+.so      Somalia                Relaunched on November 1, 2010  No      No      Yes
+.sr      Suriname                               No      Yes
+.ss      South Sudan            Removed from the root DNS zone in April 2013
+.st      São Tomé and Príncipe                          No      Yes
+.su      Soviet Union           Still in use.   Yes[cctld 22]   Yes     Yes     Yes[cctld 23]
+.sv      El Salvador                            No      No
+.sx      Sint Maarten                           Yes     No
+.sy      Syria                          No      Yes
+.sz      Swaziland              Registration is restricted to Swaziland organizations with Swaziland Trading Licenses.          No      No
+.tc      Turks and Caicos Islands               .TC domains are also marketed in Turkey. The official abbreviation of 'Türkiye Cumhuriyeti' is TC.              No      Yes
+.td      Chad   Tchad   Chadian (.td) domains are available for registration to entities connected with Chad only.              No      Yes
+.tf      French Southern and Antarctic Lands    Terres australes et antarctiques françaises     Seldom used. Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]       Yes[cctld 12]   Yes     Yes
+.tg      Togo                           No      Yes
+.th      Thailand                       Yes     Yes     No
+.tj      Tajikistan                             No      Yes
+.tk      Tokelau                Also used as a free domain service to the public. Used in the Netherlands because tk ('te koop') means 'for sale' in Dutch.             No      Yes
+.tl      East Timor     Timor-Leste     Old code .tp is still in use.           No      Yes
+.tm      Turkmenistan                   Yes[cctld 24]   Yes     Yes
+.tn      Tunisia                                Yes     Yes
+.to      Tonga          Often used unofficially for Torrent, Turin, Toronto, Tokyo, or Tocantins        Yes     No      Yes
+.tp      East Timor     Timor Português ISO code has changed to TL; .tl is now assigned but .tp is still in use.                No      Yes
+.tr      Turkey         .nc.tr used by Northern Cyprus  Yes[cctld 25]   No      Yes
+.tt      Trinidad and Tobago                            Yes     Yes
+.tv      Tuvalu         Used as an abbreviation of television, the domain is currently operated by dotTV, a VeriSign company; the Tuvalu government owns twenty percent of the company.         Yes     Yes
+.tw      Taiwan         Registration allowed worldwide, local presence not required. In line with ISO 3166-1, IANA's official position is that “TW” is "designated for use to represent "Taiwan, Republic of China."[28]        Yes[cctld 26]   Yes     Yes
+.tz      Tanzania               Must have a presence in Tanzania                Yes     No
+.ua      Ukraine        Україна/Ukraina Ukrainian trademark required            Yes     Yes
+.ug      Uganda                         Yes     Yes
+.uk      United Kingdom         The ISO 3166-1 code for the United Kingdom is GB. UK is a specially reserved ISO 3166-1 code for the UK. However, the creation of the .uk TLD predates the ISO 3166-1 list of ccTLD and is the primary TLD for the United Kingdom.[12]          Yes     Yes
+.us      United States of America               Formerly commonly used by US State and local governments, see also .gov TLD             Yes     Yes
+.uy      Uruguay                2LD rollout began on 10 July 2012.[29]          No      Yes
+.uz      Uzbekistan                             No      Yes
+.va       Vatican City  Vaticano        Limited to the official sites of the Holy See (including those of the Vatican City State)               No      No
+.vc      Saint Vincent and the Grenadines                               Partial[15]     Yes
+.ve      Venezuela                              No      No
+.vg      British Virgin Islands                         No      Yes
+.vi      United States Virgin Islands                           No      Yes
+.vn      Vietnam                        Yes[cctld 27]   No      Yes
+.vu      Vanuatu                                No      Yes
+.wf      Wallis and Futuna              Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]    Yes[cctld 12]   Yes     Yes
+.ws      Samoa  Western Samoa (former name)     Marketed to be used in general WebSites Yes     No      Yes
+.ye      Yemen                          No      No
+.yt      Mayotte                Restricted to individuals and companies in European Union, Switzerland, Norway, Iceland and Liechtenstein.[cctld 11]    Yes[cctld 12]   Yes     Yes
+.yu      SFR Yugoslavia
+ FR Yugoslavia          Yugoslavia broke up in 1991 and Serbia and Montenegro joined in a  State Union of Serbia and Montenegro in 1992. .cs was assigned for the State union but the country kept the use of .yu until 2006 when the two nations split.
+.za      South Africa   Zuid-Afrika (Dutch)                     No      No
+.zm      Zambia                         No      Yes[cctld 28]
+.zr      Zaire          Zaire renamed Democratic Republic of the Congo in 1997.
+.zr was removed in 2001
+.zw      Zimbabwe
