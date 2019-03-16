@@ -71926,3 +71926,8 @@ dologin.asp
 dologin.js
 secret.txt
 secrets.txt
+con/
+aux/
+con.aspx
+aux.aspx
+com/...
