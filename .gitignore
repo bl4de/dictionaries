@@ -1,5 +1,6 @@
 SecLists/
 RobotsDisallowed/
+statistically-likely-usernames/
 
 starter_all.txt
 rockyou.txt.bz2
@@ -9,3 +10,6 @@ last_backup
 rockyou.txt
 wordlist.txt
 100000_passwords.txt
+XSS
+.DS_Store
+top10000_robots_disalowed.txt

@@ -71933,3 +71933,4 @@ aux.aspx
 com/...
 invoke
 invoke/
+jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
