@@ -6007,6 +6007,14 @@ osview/
 shop-admin
 formpreset
 openapi/
+META-INF/openapi.yaml
+META-INF/openapi.yml
+META-INF/openapi.json
+WEB-INF/classes/META-INF/openapi.yml
+WEB-INF/classes/META-INF/openapi.yaml
+WEB-INF/classes/META-INF/openapi.json
+swagger-ui/
+swagger/ui/
 homemade-colon-cleansing-diet
 videobymembergallery
 en/newposts/
@@ -38619,6 +38627,8 @@ opin/
 jsp/availship.jsp
 webusercontrols
 swagger-ui.html
+swagger-resources/
+v2/api-docs
 frog1
 contentville
 ingress
