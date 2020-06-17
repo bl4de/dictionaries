@@ -71962,4 +71962,8 @@ WEB-INF/web.xml.jsf
 WEB-INF/web2.xml
 WEB-INF/weblogic.xml
 WEB-INF/workflow-properties.xml
-
+WEB-INF/classes/default.properties
+jolokia
+jolokia/list
+jolokia/actuator
+jolokia/list/actuator
