@@ -71967,3 +71967,14 @@ jolokia
 jolokia/list
 jolokia/actuator
 jolokia/list/actuator
+jolokia/version
+jolokia/list/
+jolokia/read/xxx
+/Portals/0/
+/DesktopModules/
+/DNNCorp/
+/DotNetNuke
+/tabid/
+/Default.aspx
+/Default
+
