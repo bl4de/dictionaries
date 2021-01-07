@@ -71978,4 +71978,5 @@ jolokia/read/xxx
 /tabid/
 /Default.aspx
 /Default
+/api/jsonws
 
