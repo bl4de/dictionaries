@@ -71971,12 +71971,19 @@ jolokia/list/actuator
 jolokia/version
 jolokia/list/
 jolokia/read/xxx
-/Portals/0/
-/DesktopModules/
-/DNNCorp/
-/DotNetNuke
-/tabid/
-/Default.aspx
-/Default
-/api/jsonws
+Portals/0/
+DesktopModules/
+DNNCorp/
+DotNetNuke
+tabid/
+Default.aspx
+Default
+api/jsonws
+alps
+profile
+alps/profile
+api/profile
+console
+WebApp/
+
 
