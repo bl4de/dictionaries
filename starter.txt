@@ -71991,3 +71991,9 @@ api/api-docs
 static/api/swagger.json
 static/api/swagger.yaml
 _profiler
+/.well-known/openid-configuration
+/well-known/openid-configuration
+/latest/metadata
+/latest/meta-data
+/latest/api/token
+/containers/json
