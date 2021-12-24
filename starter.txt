@@ -71982,3 +71982,5 @@ access_token_secret
 token_secret
 access_token
 bag.xml
+actuator
+actuator/gateway
