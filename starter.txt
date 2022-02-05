@@ -71984,3 +71984,14 @@ access_token
 bag.xml
 actuator
 actuator/gateway
+graphql
+graphiql
+graphql/console
+graphql.php
+graphiql.php
+explorer
+altair
+playground
+graphql-explorer
+graphiql/
+
