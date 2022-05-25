@@ -72027,4 +72027,9 @@ prod
 uat
 prep
 version2
+spec.yaml
+file.json
+spec.json
+api.json
+api.yaml
 
