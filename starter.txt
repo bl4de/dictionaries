@@ -72034,3 +72034,4 @@ api.json
 api.yaml
 
 launchSettings.json
+cfcache.map
