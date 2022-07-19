@@ -72035,3 +72035,9 @@ api.yaml
 
 launchSettings.json
 cfcache.map
+pages-manifest.json
+defaults.js
+mongo.js
+mongodb.js
+mongodb-connect.js
+mongo-connect.js
