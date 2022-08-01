@@ -2,8 +2,6 @@ SecLists/
 RobotsDisallowed/
 statistically-likely-usernames/
 assetnote-wordlists/
-
-starter_all.txt
 rockyou.txt.bz2
 fuzzdb/
 __backup__
@@ -11,14 +9,13 @@ last_backup
 rockyou.txt
 wordlist.txt
 100000_passwords.txt
-XSS
 .DS_Store
-top10000_robots_disalowed.txt
 backup.starter.txt
-assetnote
 routes-large.kite
 samlists/
 trufflehog/
 usernames/
-
 starter_backup.txt
+an_*
+*.swp
+
