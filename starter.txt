@@ -71148,3 +71148,10 @@ externalAccess
 externalAccess.jsp
 LoginAll.jsp
 contactinfo.jsp
+.aws/credential
+.aws/config
+api/.env/.aws/
+.env/aws/credential
+.env/aws/config
+_profiler/phpinfo
+xleet.php 
