@@ -71155,3 +71155,4 @@ api/.env/.aws/
 .env/aws/config
 _profiler/phpinfo
 xleet.php 
+plesk-stat
