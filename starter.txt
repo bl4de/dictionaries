@@ -71156,3 +71156,9 @@ api/.env/.aws/
 _profiler/phpinfo
 xleet.php 
 plesk-stat
+OA_HTML/
+OA_HTML/ibeCAcpSSOReg.jsp
+OA_HTML/AppsLocalLogin.jsp
+OA_HTML/ibeCRgpIndividualUser.jsp
+OA_HTML/ibeCRgpPrimaryCreate.jsp
+OA_HTML/ibeCRgpPartnerPriCreate.jsp
