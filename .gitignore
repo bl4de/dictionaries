@@ -8,7 +8,6 @@ fuzzdb/
 __backup__
 last_backup
 rockyou.txt
-wordlist.txt
 100000_passwords.txt
 .DS_Store
 backup.starter.txt
