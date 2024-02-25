@@ -71162,3 +71162,5 @@ OA_HTML/AppsLocalLogin.jsp
 OA_HTML/ibeCRgpIndividualUser.jsp
 OA_HTML/ibeCRgpPrimaryCreate.jsp
 OA_HTML/ibeCRgpPartnerPriCreate.jsp
+/api/v1/playground
+devtool
