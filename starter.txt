@@ -71164,3 +71164,6 @@ OA_HTML/ibeCRgpPrimaryCreate.jsp
 OA_HTML/ibeCRgpPartnerPriCreate.jsp
 /api/v1/playground
 devtool
+endpoint
+endpoints
+prod/
