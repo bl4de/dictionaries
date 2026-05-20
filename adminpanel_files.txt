@@ -45,6 +45,7 @@ administrator/account.html
 administrator/account.php
 administrator.php
 administrator.html
+administration_details
 login.php
 login.html
 modelsearch/login.php
